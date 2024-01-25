@@ -1,0 +1,63 @@
+---
+## front matter tells Jekyll to process this as a Liquid template
+title: PACT 2023
+id:    home
+---
+
+<!doctype html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+    <div class="container">
+        {% include header.html %}
+
+        {% include index_hero.html %}
+
+        <div class="row mb-3">
+            <!-- main page content -->
+            <div class="col-md-8">
+                {% include index_news.html %}
+
+                <br>
+                <br>
+
+                <h2>
+                    <a href="{{site.baseUrl}}/submit">Call for Papers</a>
+                </h2>
+
+                <br>
+
+                <h2>
+                    <a href="{{site.baseUrl}}/workshops">Call for Workshops/Tutorials</a>
+                </h2>
+
+                <br>
+
+                <h2>
+                    <a href="{{site.baseUrl}}/src">Call for Student Research Competition Abstracts</a>
+                </h2>
+
+<!--
+                {% capture call_for_papers %}{% include call_for_papers.md %} {% endcapture %}
+                {{ call_for_papers | markdownify }}
+-->
+
+<!--
+                {% capture call_for_posters %}{% include call_for_posters.md %} {% endcapture %}
+                {{ call_for_posters | markdownify }}
+-->
+             </div>
+
+            <!-- sidebar -->
+            <div class="col-md-4">
+                {% include sidebar.html %}
+             </div>
+        </div>
+
+        {% include footer.html %}
+    </div> <!-- main container -->
+</body>
+
+</html>

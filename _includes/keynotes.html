@@ -1,0 +1,42 @@
+
+<h1>Keynotes</h1>
+
+<h2>Monday, Oct 23, 2023: <a name="keynote1">Concurrent Data Sketches</a>, <i>Idit Keidar</i></h2>
+
+<p>Data sketching algorithms have become an indispensable tool for high-speed computations over massive datasets. They maintain a succinct summary of a data stream’s state and answer queries on it using limited memory, at the cost of giving approximations rather than exact answers. For example, a Θ sketch estimates the number of unique items in a data stream, the CountMin sketch approximates the frequencies at which distinct stream elements occur, and a Quantiles sketch estimates the data distribution of a large input stream.</p>
+
+<p>This talk will discuss efficient concurrent (multi-threaded) implementations of such objects.We will first present an efficient generic approach to parallelizing data sketches and allowing them to be queried in real time, while bounding the error that such parallelism introduces. When instantiated with the KMV Θ sketch sketch, this solution achieves high scalability with a small error. Its implementation is now now publicly available as part of the popular Apache Data Sketches library.</p>
+
+<p>Second, we will discuss the correctness semantics of such objects. We will define Intermediate Value Linearizability (IVL), a correctness criterion that relaxes linearizability to allow more parallelism, and yet preserves the error bounds of sequential (probabilistic) sketches. To illustrate the power of this result, we will show a straightforward and efficient concurrent implementation of a CountMin sketch, which is IVL (albeit not linearizable).</p>
+
+<p>Finally, we will consider the Quantiles sketch, which does not scale well using the generic concurrent sketches approach. We instead present Quancurrent, a highly scalable quantiles sketch.</p>
+
+<p>Based on joint works with Edward Bortnikov, Shaked Elias-Zada, Eshcar Hillel, Lee Rhodes, Arik Rinberg, Hadar Serviansky, and Alexander Spiegelman.</p>
+
+<h4>Bio:</h4>
+<p>Idit Keidar is a Chaired Professor and the current Dean of the Viterbi Faculty of Electrical and Computer Engineering at the Technion – Israeli Institute of Technology. She received her BSc (summa cum laude), MSc (summa cum laude), and PhD from the Hebrew University of Jerusalem in 1992, 1994, and 1998, respectively. Subsequently, she was a Rothschild Postdoctoral Fellow at MIT’s Laboratory for Computer Science. She was a Visiting Professor at Cornell and has consulted for several companies. Prof. Keidar has also served as the program chair for leading conferences (PODC, DISC, PPoPP, and SYSTOR). In her free time, she enjoys writing prose.</p>
+
+<p></p>
+
+<h2>Tuesday, Oct 24, 2023: <a name="keynote2">Energy-Efficient GPU Architectures for Real-Time Rendering</a>, <i>Antonio González</i></h2>
+
+<p>Mobile devices such as smartphones and tablets have become the most commonly used computing device nowadays, and projections forecast a significant growth in the future in both the number of shipped units and their capabilities. These devices have become quite powerful and most applications that run on them make an intensive use of graphics animation to provide a rich user experience. Energy consumption and the related heat dissipation issues are the main constraints for the capabilities provided by such systems. These systems are equipped with a very small battery that is expected to last for hours if not days, and since they are normally handheld, their external temperature cannot significantly exceed typical human levels. To provide richer user experiences in these devices, dramatic improvements in energy efficiency are required. This talk focuses on one of the main components of these systems, which is the GPU, and describes some novel microarchitectures that we have recently developed for increasing its performance and energy efficiency.</p>
+
+<h4>Bio:</h4>
+
+<p>Antonio González is a Full Professor at the Computer Architecture Department of the Universitat Politècnica de Catalunya, Barcelona (Spain), and the director of the Architecture and Compilers research group. He was the founding director of the Intel Barcelona Research Center from 2002 to 2014.</p>
+<p>His research has focused on computer architecture and compilers, with special emphasis on cognitive computing systems and graphics processors in recent years. Antonio holds 53 patents, has published over 400 research papers and has given over 130 invited talks. He has a long track record of innovations through technology transfer of his research results to commercial products, especially microprocessors and computing systems in general.</p>
+<p>Antonio has served as associate editor for five IEEE and ACM journals, program chair for ISCA, MICRO, HPCA, ICS and ISPASS, general chair for MICRO and HPCA, and member of the program committee for more than 140 symposia.</p>
+<p>He is a recipient of multiple awards including the Rosina Ribalta award as the advisor of the best PhD project in Information Technology and Communications, the Duran Farell award for research in technology, the Aritmel National Award of Informatics to the Computer Engineer of the Year, the King Jaime I award in the area of New Technologies, and the ICREA Academia Award. He has been inducted into the “IEEE/ACM MICRO Hall of Fame, the “IEEE HPCA Hall of Fame” and the “ACM/IEEE ISCA Hall of Fame”. Antonio is a Fellow of IEEE and ACM.
+</p>
+
+
+<h2>Wednesday, Oct 25, 2023: <a name="keynote3">Optimizing Compilers in an Age of Ubiquitous AI</a>, <i>Albert Cohen</i></h2>
+
+<p>Compilers and AI have been working hand in hand for some time… almost “forever” actually. Yet, despite decades of mutually profitable inspiration and progress, the art of compiler construction has not seen changes comparable to the accelerating history of ML for the last 10 years. And yet again, we may actually be standing at the doorstep of such a radical shift in the design of compilers. I am not the only one to notice this of course: ML-enhanced compilers become the norm rather than the exception, while high-performance ML is made possible by advances in domain-specific compilers. I would like to draw the PACT community’s attention to challenges that may require more radical changes to compiler construction, pertaining to correctness, performance and agility. For example, today’s highest performance libraries and heroic accelerator programming are only made possible at the expense of a dramatic loss of programmability. Are we ever going to find a way out of this portability/performance dilemma? What about the agility of compiler engineers? Can we build a software infrastructure scalable enough to compile billions of lines of code while leveraging advanced ML-based heuristics? Can we do so while enabling massive code reuse across domains, languages and hardware? We will shed some light on these questions, based on recent successes and half-successes in academia and industry. We will also form an invitation to tackle these challenges in future research and software development.</p>
+
+<h4>Bio:</h4>
+
+<p>Albert Cohen is a research scientist at Google. An alumnus of École Normale Supérieure de Lyon and the University of Versailles, he has been a research scientist at Inria, a visiting scholar at the University of Illinois, an invited professor at Philips Research, and a visiting scientist at Facebook Artificial Intelligence Research. Albert works on parallelizing, optimizing and machine learning compilers, and on dataflow and synchronous programming languages, with applications to high-performance computing, artificial intelligence and reactive control.</p>
+
+<p></p>
