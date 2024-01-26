@@ -9,12 +9,13 @@ PACT 2023 will be held in **Long Beach, California, USA**, during {{ site.data.v
 
 The International Conference on Parallel Architectures and Compilation Techniques (PACT) is a unique technical conference sitting at the intersection of hardware and software, with a special emphasis on parallelism. The PACT conference series brings together researchers from computer architectures, compilers, execution environments, programming languages, and applications, to present and discuss their latest research results.
 
-PACT 2023 will be held as an in-person event in the beautiful city of Vienna. At least one of the authors of accepted papers will be required to attend the conference, and we encourage all the authors to participate.
+PACT 2024 will be held as an in-person event in Long Beach, California, USA. At least one of the authors of accepted papers will be required to attend the conference, and we encourage all the authors to participate.
+
 
 Specific topics of interest include (but are not limited to):
 
-* Parallel architectures
-* Compilers and tools for parallel computer systems
+* Parallel architectures, including accelerator architectures for AI or other domains
+* Compilers and tools for parallel architectures (as above)
 * Applications and experimental systems studies of parallel processing
 * Computational models for concurrent execution
 * Multicore, multithreaded, superscalar, and VLIW architectures
@@ -32,8 +33,11 @@ Specific topics of interest include (but are not limited to):
 * Applications of machine learning to parallel computing
 * Large scale data processing, including computing in memory accelerators
 * Insights for the design of parallel architectures and compilers from modern parallel applications
-* Neuromorphic computing both as an application for and a tool applied to architectures and compilers.
 
+  PACT  for  Quantum  and  Neurmorphic
+
+* Neuromorphic computing both as an application for and a tool applied to architectures and compilers
+* Quantum computing architectures and compilers.
 
 ## Submitting your work
 
