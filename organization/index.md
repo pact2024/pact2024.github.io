@@ -1,6 +1,6 @@
 ---
 title:        Organization
-description:  PACT 2023 organization
+description:  PACT 2024 organization
 id:           organization
 layout:       page_sidebar
 show_sidebar: true
@@ -8,44 +8,40 @@ show_sidebar: true
 
 # Organization
 
-**General Chair:**<br>
-[Andreas Krall](https://informatics.tuwien.ac.at/people/andreas-krall), TU Wien
+**General Chairs:**<br>
+[Rajiv Gupta](https://www.cs.ucr.edu/~gupta/), University of California, Riverside
+[Nael Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/), University of California, Riverside
 
-**Program Chair:**<br>
-[Calin Cascaval](https://conf.researchr.org/profile/conf/calincascaval), Google
+**Program Chairs:**<br>
+[Stefanos Kaxiras](https://pages.cs.wisc.edu/~kaxiras/), Uppsala University
+[Alexandra Jimborean](https://webs.um.es/alexandra.jimborean/miwiki/doku.php), University of Murcia
 
 **Workshop/Tutorial Chair**<br>
-[Ana Lucia Varbanescu](https://people.utwente.nl/a.l.varbanescu), U. of Twente
+[Hoda Naghibijouybari](https://sites.google.com/a/binghamton.edu/sites/system/errors/WebspaceNotFound?path=%2Fhoda%2F), Binghamton University
 
 **ACM Student Research Competition Chair:**<br>
-[Saugata Ghose](https://ghose.cs.illinois.edu/), U. Illinois
+[Samira Ajorpaz]([https://ghose.cs.illinois.edu/](https://mirbaghercom.wordpress.com/)), NCSU
 
-**Student Travel Grant Chair:**<br>
-[Sepideh Maleki](https://www.cs.utexas.edu/~smaleki/), U. Texas at Austin
+**Travel Grant Chair:**<br>
+[Changhee Jung](https://www.cs.purdue.edu/homes/chjung/), Purdue University
 
-**Financial Chair:**<br>
-[Ewa Vesely](https://informatics.tuwien.ac.at/people/ewa-vesely), TU Wien
+**Artifact Evaluation Chair:**<br>
+TBD
 
-<!-- **Local Arrangements Chair:**<br>
-[Yuri Alexeev](https://www.anl.gov/profile/yuri-alexeev), Argonne National Lab
+**Publications Chair:**<br>
+TBD
 
-**Workshop/Tutorial Chair:**<br>
-[Manoj Kumar](https://www.linkedin.com/in/manoj-kumar-3a06902/), IBM
+**Publicity Co-Chairs:**<br>
+- Americas: [Khaled Khasawneh](https://sites.google.com/view/knkhasawneh/khaled-n-khasawneh), George Mason University
+- Europe: [Ihsen Alouani](https://sites.google.com/view/ihsen-alouani), Queen's University Belfast
 
--->
-
-**Publicity Co-Chairs:**
-
-- Europe: [Juan Manuel Cebrian](https://es.linkedin.com/in/juan-m-cebrian-46245063), U. Murcia
-- Asia: [Rio Yokota](https://www.rio.gsic.titech.ac.jp/en/member/yokota.html), Tokyo Institute of Technology
-- Americas: [Hari Sundar](https://www.cs.utah.edu/~hari/), U. Utah
-
-**Artifact Evaluation Committee Co-Chairs:**<br>
-Soumyadeep Ghosh, Meta Platforms Inc
-[James Tuck](https://ece.ncsu.edu/people/jtuck), North Carolina State University
 
 **Web Chair:**<br>
-Fabian Gruber, arm
+[Daniel Wong](https://www.danielwong.org/), University of California, Riverside
+
+**Webmaster:**<br>
+[Pedram Zaree](https://pedramzaree.github.io/), University of California, Riverside
+
 
 
 ## Steering Committee
