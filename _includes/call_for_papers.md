@@ -1,9 +1,9 @@
 
 # Call for Papers
 
-PACT 2023 will be held in **Vienna, Austria**, during {{ site.data.vars.conf_dates }}.
+PACT 2023 will be held in **Long Beach, California, USA**, during {{ site.data.vars.conf_dates }}.
 
-**Submissions due: ~~April 1, 2023~~ Extended to April 15, 2023**
+**Submissions due: March 27, 2024**
 
 ## Scope
 
