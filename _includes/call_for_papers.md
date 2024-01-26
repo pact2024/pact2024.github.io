@@ -39,6 +39,32 @@ Specific topics of interest include (but are not limited to):
 * Neuromorphic computing both as an application for and a tool applied to architectures and compilers
 * Quantum computing architectures and compilers.
 
+
+In addition to the regular research papers, PACT 2024 has a special category of papers called 
+“tools and practical experience” (TPE). Such papers are subject to the same page length 
+guidelines and will be reviewed by the same Program Committee.
+TPE papers focus on applicability (such as traditional methods employed in emerging fields), 
+exposing challenges and experiences the industry is facing as an opportunity to steer the 
+research. A TPE paper must clearly explain its functionality, provide a summary about the 
+practice experience with realistic case studies, and describe all the supporting artifacts available 
+(if relevant). The selection criteria are:
+
+* Originality: Papers should present PACT-related technologies applied to real-world 
+problems with scope or characteristics that set them apart from previous solutions.
+* Usability: The presented Tools or compilers should have broad usage or applicability. 
+They are expected to assist in PACT-related research, or could be extended to 
+investigate or demonstrate new technologies. If significant components are not yet 
+implemented, the paper will not be considered.
+* Documentation: The tool or compiler should be presented on a web-site giving 
+documentation and further information about the tool.
+* Benchmark Repository: A suite of benchmarks for testing should be provided.
+* Availability: Preferences will be given to tools or compilers that are freely available (at 
+either the source or binary level). Exceptions may be made for industry and commercial 
+tools that cannot be made publicly available for business reasons.
+* Foundations: Papers should incorporate the principles underpinning Parallel 
+Architectures and Compilation Techniques (PACT). However, a thorough discussion of 
+theoretical foundations is not required; a summary of such should suffice.
+
 ## Submitting your work
 
 Paper submissions are due ~~**April 1, 2023**~~ **April 15, 2023** by posting on the conference [submission site](https://pact23.hotcrp.com/). Please make sure that your paper satisfies all the following requirements before being submitted. Submissions not adhering to these submission guidelines will be rejected by the submission system and/or subject to an administrative rejection.
