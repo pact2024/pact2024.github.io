@@ -9,7 +9,7 @@ show_sidebar: true
 # Organization
 
 **General Chairs:**<br>
-[Rajiv Gupta](https://www.cs.ucr.edu/~gupta/), University of California, Riverside
+[Rajiv Gupta](https://www.cs.ucr.edu/~gupta/), University of California, Riverside <br>
 [Nael Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/), University of California, Riverside
 
 **Program Chairs:**<br>
