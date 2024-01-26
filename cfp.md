@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Call for papers
-description: PACT 2023 call for papers
+description: PACT 2024 call for papers
 ---
 
-PACT 2023 will be held in **Vienna, Austria**, in the Fall of 2023.
+PACT 2024 will be held in **Long Beach, California, USA**, 13-16 October, 2024.
 
-**Submissions due: April 1, 2023**
+**Submissions due: March 27, 2024**
 
 
 ## Scope
