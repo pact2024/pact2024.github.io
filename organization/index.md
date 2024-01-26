@@ -20,7 +20,7 @@ show_sidebar: true
 [Hoda Naghibijouybari](https://sites.google.com/a/binghamton.edu/sites/system/errors/WebspaceNotFound?path=%2Fhoda%2F), Binghamton University
 
 **ACM Student Research Competition Chair:**<br>
-[Samira Ajorpaz]([https://ghose.cs.illinois.edu/](https://mirbaghercom.wordpress.com/)), NCSU
+[Samira Ajorpaz](https://mirbaghercom.wordpress.com/), NCSU
 
 **Travel Grant Chair:**<br>
 [Changhee Jung](https://www.cs.purdue.edu/homes/chjung/), Purdue University
