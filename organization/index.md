@@ -13,7 +13,7 @@ show_sidebar: true
 [Nael Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/), University of California, Riverside
 
 **Program Chairs:**<br>
-[Stefanos Kaxiras](https://pages.cs.wisc.edu/~kaxiras/), Uppsala University
+[Stefanos Kaxiras](https://pages.cs.wisc.edu/~kaxiras/), Uppsala University <br>
 [Alexandra Jimborean](https://webs.um.es/alexandra.jimborean/miwiki/doku.php), University of Murcia
 
 **Workshop/Tutorial Chair**<br>
