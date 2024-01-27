@@ -6,5 +6,5 @@ layout:       page_sidebar
 show_sidebar: true
 ---
 
-# Comming Soon
+# Coming Soon
 

@@ -1,7 +1,7 @@
 
 # Call for Papers
 
-PACT 2023 will be held in **Long Beach, California, USA**, during {{ site.data.vars.conf_dates }}.
+PACT 2024 will be held in **Long Beach, California, USA**, during {{ site.data.vars.conf_dates }}.
 
 **Submissions due: March 27, 2024**
 
