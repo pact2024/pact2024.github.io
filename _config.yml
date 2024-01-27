@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:       PACT 2023
-email:       pact2023@googlegroups.com # to be replaced by the web chair email
+title:       PACT 2024
+email:       danwong@ucr.edu # to be replaced by the web chair email
 description: >- # this means to ignore newlines until "baseurl:"
-  The 32nd International Conference on Parallel Architectures and Compilation Techniques (PACT) 2023
+  The 33rd International Conference on Parallel Architectures and Compilation Techniques (PACT) 2024
 baseurl:     "" # the subpath of your site, e.g. /blog
-url:         "https://pact2023.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url:         "https://pact2024.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
