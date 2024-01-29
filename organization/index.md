@@ -46,14 +46,14 @@ TBD
 
 ## Steering Committee
 
-- [Erik      Altman](https://researcher.watson.ibm.com/researcher/view.php?person=us-ealtman), IBM
-- [Calin     Cascaval](https://conf.researchr.org/profile/conf/calincascaval), Google
+- [Erik      Altman](https://researcher.watson.ibm.com/researcher/view.php?person=us-ealtman), IBM, USA
+- [Călin     Caşcaval](https://conf.researchr.org/profile/conf/calincascaval), Google, New Zealand
 - [Michel    Cosnard](http://www-sop.inria.fr/members/Michel.Cosnard/), INRIA, France
 - [Kemal     Ebcioglu](http://global-supercomputing.com/people/kemal.ebcioglu/) Global Supercomputing Corp., USA
 - [Skevos    Evripidou](https://cy.linkedin.com/in/skevos-evripidou-55a7b2), U. Cyprus, Cyprus
 - [Jean Luc  Gaudiot](http://pascal.eng.uci.edu/people/gaudiot.html), UC Irvine, USA
-- [Andreas   Klöckner](https://andreask.cs.illinois.edu/aboutme), U. of Illinois at Urbana-Champaign
-- [Andreas   Krall](https://informatics.tuwien.ac.at/people/andreas-krall), TU Wien
+- [Andreas   Klöckner](https://andreask.cs.illinois.edu/aboutme), U. of Illinois at Urbana-Champaign, USA
+- [Andreas   Krall](https://informatics.tuwien.ac.at/people/andreas-krall), TU Wien, Austria
 - [Bilha     Mendelson](https://www.linkedin.com/in/bilha-mendelson-36208a1/?originalSubdomain=il), Optitura, Israel
 - [Jose      Moreira](https://researcher.watson.ibm.com/researcher/view.php?person=us-jmoreira), IBM, USA
 - [Yale      Patt](http://users.ece.utexas.edu/~patt/), U. Texas at Austin, USA
