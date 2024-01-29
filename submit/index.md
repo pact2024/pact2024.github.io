@@ -1,6 +1,6 @@
 ---
 title:        Call for papers
-description:  PACT 2023 call for papers
+description:  PACT 2024 call for papers
 id:           submit
 layout:       page_sidebar
 show_sidebar: true

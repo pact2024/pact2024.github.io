@@ -47,13 +47,13 @@ TBD
 ## Steering Committee
 
 - [Erik      Altman](https://researcher.watson.ibm.com/researcher/view.php?person=us-ealtman), IBM
-- [Albert    Cohen](https://research.google/people/106208/), Google, France
+- [Calin     Cascaval](https://conf.researchr.org/profile/conf/calincascaval), Google
 - [Michel    Cosnard](http://www-sop.inria.fr/members/Michel.Cosnard/), INRIA, France
 - [Kemal     Ebcioglu](http://global-supercomputing.com/people/kemal.ebcioglu/) Global Supercomputing Corp., USA
 - [Skevos    Evripidou](https://cy.linkedin.com/in/skevos-evripidou-55a7b2), U. Cyprus, Cyprus
 - [Jean Luc  Gaudiot](http://pascal.eng.uci.edu/people/gaudiot.html), UC Irvine, USA
 - [Andreas   Klöckner](https://andreask.cs.illinois.edu/aboutme), U. of Illinois at Urbana-Champaign
-- [Jaejin    Lee](https://sites.google.com/view/jaejinlee), Seoul National University, Korea
+- [Andreas   Krall](https://informatics.tuwien.ac.at/people/andreas-krall), TU Wien
 - [Bilha     Mendelson](https://www.linkedin.com/in/bilha-mendelson-36208a1/?originalSubdomain=il), Optitura, Israel
 - [Jose      Moreira](https://researcher.watson.ibm.com/researcher/view.php?person=us-jmoreira), IBM, USA
 - [Yale      Patt](http://users.ece.utexas.edu/~patt/), U. Texas at Austin, USA
@@ -62,3 +62,22 @@ TBD
 - [Vivek     Sarkar](https://vsarkar.cc.gatech.edu/), Georgia Tech, USA
 - [Gabby     Silberman](https://es.linkedin.com/in/gabbysilberman), BIST (Barcelona Inst. of Sci. and Tech.), Spain
 - [Mateo     Valero](https://www.bsc.es/mateo-valero), UPC/Barcelona Supercomputing Center, Spain
+
+## Technical Program Committee
+- Davide Bertozzi, University of Manchester
+- Christina Giannoula, University of Toronto
+- Pedro Trancoso, Chalmers University of Technology
+- Pavlos Petoumenos, University of Manchester
+- Sam Ainsworth, University of Edinburgh
+- Trevor Carlson, National University of Singapore
+- Tobias Grosser, University of Cambridge
+- EunJung Park, Qualcomm 
+- Pedro Diniz, University of Southern California
+- Fernando Pereira, Google
+- Dimitris Gizopoulos, University of Athens
+- H. Peter Hofstee, IBM
+- Ravi Iyer, Intel
+- Lieven Eeckhout, Ghent University 
+- Dan Sorin, Duke
+- Andre Seznec, INRIA
+- John Kim, KAIST
