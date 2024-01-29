@@ -5,6 +5,9 @@ PACT 2024 will be held in **Long Beach, California, USA**, during {{ site.data.v
 
 **Submissions due: March 27, 2024**
 
+> [!NOTE]
+> **PACT 2024 includes a New Call for Tools and Practical Experience Papers**
+
 ## Scope
 
 The International Conference on Parallel Architectures and Compilation Techniques (PACT) is a unique technical conference sitting at the intersection of hardware and software, with a special emphasis on parallelism. The PACT conference series brings together researchers from computer architectures, compilers, execution environments, programming languages, and applications, to present and discuss their latest research results.
