@@ -8,6 +8,8 @@ PACT 2024 will be held in **Long Beach, California, USA**, 13-16 October, 2024.
 
 **Submissions due: March 27, 2024**
 
+> [!NOTE]
+> **PACT 2024 includes a New Call for Tools and Practical Experience Papers**
 
 ## Scope
 
