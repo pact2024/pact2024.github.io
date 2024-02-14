@@ -1,3 +1,3 @@
-# PACT 2023 Conference Website
+# PACT 2024 Conference Website
 
-Please email pact2023@googlegroups.com if you have suggestions.
+Please email danwong@ucr.edu if you have suggestions.
