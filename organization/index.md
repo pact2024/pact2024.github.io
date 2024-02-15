@@ -64,20 +64,34 @@ TBD
 - [Mateo     Valero](https://www.bsc.es/mateo-valero), UPC/Barcelona Supercomputing Center, Spain
 
 ## Technical Program Committee
-- Davide Bertozzi, University of Manchester
-- Christina Giannoula, University of Toronto
-- Pedro Trancoso, Chalmers University of Technology
-- Pavlos Petoumenos, University of Manchester
 - Sam Ainsworth, University of Edinburgh
+- J Nelson Amaral, U. Alberta
+- Davide Bertozzi, University of Manchester
+- Steve Blackburn, Google/Australian National University
 - Trevor Carlson, National University of Singapore
-- Tobias Grosser, University of Cambridge
-- EunJung Park, Qualcomm 
+- Thomas Chau, Neubla 
 - Pedro Diniz, University of Southern California
-- Fernando Pereira, Google
-- Dimitris Gizopoulos, University of Athens
-- H. Peter Hofstee, IBM
-- Ravi Iyer, Intel
 - Lieven Eeckhout, Ghent University 
-- Dan Sorin, Duke
+- Christina Giannoula, University of Toronto
+- Dimitris Gizopoulos, University of Athens
+- Tobias Grosser, University of Cambridge
+- H. Peter Hofstee, IBM
+- Ravishankar Iyer, Intel
+- Mahmut Taylan Kandemir, Pennsylvania State University
+- John Kim, KAIST 
+- Pierre Michaud, INRIA
+- Roger Moussalli, Two Sigma
+- Vijay Nagarajan, University of Utah
+- Michael O'Boyle, University of Edinburgh
+- Eun Jung (EJ) Park, Qualcomm
+- Gianna Paulin, Axelera AI
+- Fernando Magno Quintao Pereira, Google
+- Pavlos Petoumenos, University of Manchester
 - Andre Seznec, INRIA
-- John Kim, KAIST
+- Dan Sorin, Duke
+- Swamit Tannu, University of Wisconsin-Madison
+- Pedro Petersen Moura Trancoso, Chalmers University of Technology
+- George Tzimpragos, University of Michigan  
+- Yaman Umuroglu, AMD
+
+
