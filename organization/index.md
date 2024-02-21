@@ -29,7 +29,7 @@ show_sidebar: true
 TBD
 
 **Publications Chair:**<br>
-TBD
+[Jongouk Choi](https://jongouk-choi.github.io/jongouk/), UCF
 
 **Publicity Co-Chairs:**<br>
 - Americas: [Khaled Khasawneh](https://sites.google.com/view/knkhasawneh/khaled-n-khasawneh), George Mason University
