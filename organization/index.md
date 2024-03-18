@@ -64,34 +64,46 @@ TBD
 - [Mateo     Valero](https://www.bsc.es/mateo-valero), UPC/Barcelona Supercomputing Center, Spain
 
 ## Technical Program Committee
-- Sam Ainsworth, University of Edinburgh
-- J Nelson Amaral, U. Alberta
-- Davide Bertozzi, University of Manchester
-- Steve Blackburn, Google/Australian National University
-- Trevor Carlson, National University of Singapore
-- Thomas Chau, Neubla 
-- Pedro Diniz, University of Southern California
-- Lieven Eeckhout, Ghent University 
+- Ajeya Naithani, Ghent University
+- Alexandra Jimborean, University of Murcia
+- Andre Seznec, Inria
 - Christina Giannoula, University of Toronto
+- Daniel Sorin, Duke University
+- Davide Bertozzi, University of Manchester
 - Dimitris Gizopoulos, University of Athens
-- Tobias Grosser, University of Cambridge
-- H. Peter Hofstee, IBM
-- Ravishankar Iyer, Intel
+- Esin Tureci, Princeton University
+- Eun Jung Park (EJ), Qualcomm
+- Fernando Magno Quintao Pereira, Federal University of Minas Gerais
+- Gabriel Rodríguez, Universidade da Coruña
+- George Tzimpragos, University of Michigan
+- Gianna Paulin, ETH
+- H Peter Hofstee, IBM Systems
+- J Nelson Amaral, University of Alberta
+- John Kim, KAIST
+- Julio Sahuquillo, Universitat Politècnica de València
+- Lieven Eeckhout, Ghent University
+- Louis-Noel Pouchet, University of Colorado
+- Magnus Själander, Norwegian University of Science and Technology
 - Mahmut Taylan Kandemir, Pennsylvania State University
-- John Kim, KAIST 
-- Pierre Michaud, INRIA
-- Roger Moussalli, Two Sigma
-- Vijay Nagarajan, University of Utah
 - Michael O'Boyle, University of Edinburgh
-- Eun Jung (EJ) Park, Qualcomm
-- Gianna Paulin, Axelera AI
-- Fernando Magno Quintao Pereira, Google
+- Michel Steuwer, Technische Universität Berlin
+- Nilay Vaish, Google
 - Pavlos Petoumenos, University of Manchester
-- Andre Seznec, INRIA
-- Dan Sorin, Duke
-- Swamit Tannu, University of Wisconsin-Madison
+- Pedro Diniz, University of Porto
 - Pedro Petersen Moura Trancoso, Chalmers University of Technology
-- George Tzimpragos, University of Michigan  
+- Pierre Michaud, Inria
+- Ravishankar Iyer, Intel Labs
+- Roger Moussalli, Two Sigma
+- Sam Ainsworth, University of Edinburgh
+- Stefanos Kaxiras, Uppsala University
+- Steve Blackburn, Google and Australian National University
+- Swamit Tannu, University of Wisconsin, Madison
+- Thomas Chau, Neubla
+- Timothy M Jones, University of Cambridge
+- Tobias Grosser, University of Cambridge
+- Trevor E. Carlson, National University of Singapore
+- Vijay Nagarajan, University of Utah
 - Yaman Umuroglu, AMD
+
 
 
