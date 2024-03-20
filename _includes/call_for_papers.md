@@ -3,7 +3,7 @@
 
 PACT 2024 will be held in **Long Beach, California, USA**, during {{ site.data.vars.conf_dates }}.
 
-**Submissions due: March 27, 2024**
+**Submissions due: April 1, 2024**
 
 ### *PACT 2024 includes a New Call for Tools and Practical Experience Papers*
 
@@ -125,8 +125,8 @@ Papers that successfully go through the Artifact Evaluation process will receive
 
 ## Key dates
 
-* Abstract submission deadline: Mar 22, 2024
-* Paper submission deadline: Mar 27, 2024
+* Abstract submission deadline: March 25, 2024
+* Paper submission deadline: April 1, 2024
 * Rebuttal  period:: Jun 3-9, 2024
 * Author notification: Jul 1, 2024
 * Artifact submission: Jul 8, 2024
