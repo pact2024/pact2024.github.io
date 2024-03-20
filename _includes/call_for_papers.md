@@ -69,7 +69,7 @@ theoretical foundations is not required; a summary of such should suffice.
 
 ## Submitting your work
 
-Paper submissions are due **March 27, 2024** by posting on the conference [submission site](https://pact24.hotcrp.com/). Please make sure that your paper satisfies all the following requirements before being submitted. Submissions not adhering to these submission guidelines will be rejected by the submission system and/or subject to an administrative rejection.
+Paper submissions are due **April 1, 2024** by posting on the conference [submission site](https://pact24.hotcrp.com/). Please make sure that your paper satisfies all the following requirements before being submitted. Submissions not adhering to these submission guidelines will be rejected by the submission system and/or subject to an administrative rejection.
 
 
 
