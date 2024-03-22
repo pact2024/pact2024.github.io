@@ -68,6 +68,7 @@ TBD
 - Alexandra Jimborean, University of Murcia
 - Andre Seznec, Inria
 - Christina Giannoula, University of Toronto
+- Christos Sakalis, SambaNova Systems
 - Daniel Sorin, Duke University
 - Davide Bertozzi, University of Manchester
 - Dimitris Gizopoulos, University of Athens
