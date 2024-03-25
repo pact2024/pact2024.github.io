@@ -80,7 +80,7 @@ Paper submissions are due **April 1, 2024** by posting on the conference [submis
 * The paper must have an abstract under 300 words.
 * The paper must be original material that has not been previously published in another conference or journal, nor is currently
 under review by another conference or journal. You may submit material presented previously at a workshop without copyrighted proceedings.
-* The submission is limited to ten (10) pages in the ACM 8.5" x 11" format (US letter size paper) 
+* The submission is limited to ten (10) pages in the ACM 8.5" x 11" format (US letter size paper), double column (e.g., using the sigconf LaTeX template style), 
 using 9pt font, with no more than 7 lines per inch. This page limit applies to all content NOT 
 INCLUDING references, and there is no page limit for references. Your paper must print 
 satisfactorily on both Letter paper (8.5"x11") and A4 paper (8.27"x11.69"). The box containing the text should be no larger than 7.15"x9" (18.2cm x 22.9cm). Templates are available on the [ACM Author Gateway](https://authors.acm.org/proceedings/production-information/taps-production-workflow).
