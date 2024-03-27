@@ -27,7 +27,7 @@ show_sidebar: true
 
 **Artifact Evaluation Chairs:**<br>
 
-[Biswa Panda](https://www.cse.iitb.ac.in/~biswa/), (Indian) Institute of Technology Bombay
+[Biswa Panda](https://www.cse.iitb.ac.in/~biswa/), Indian Institute of Technology Bombay <br>
 [Bastian Hagedorn](https://bastianhagedorn.github.io), NVIDIA
 
 
