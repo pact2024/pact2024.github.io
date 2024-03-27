@@ -25,8 +25,11 @@ show_sidebar: true
 **Travel Grant Chair:**<br>
 [Changhee Jung](https://www.cs.purdue.edu/homes/chjung/), Purdue University
 
-**Artifact Evaluation Chair:**<br>
-TBD
+**Artifact Evaluation Chairs:**<br>
+
+[Biswa Panda](https://www.cse.iitb.ac.in/~biswa/), (Indian) Institute of Technology Bombay
+[Bastian Hagedorn](https://bastianhagedorn.github.io), NVIDIA
+
 
 **Publications Chair:**<br>
 [Jongouk Choi](https://jongouk-choi.github.io/jongouk/), UCF
