@@ -22,7 +22,7 @@ show_sidebar: true
 **ACM Student Research Competition Chair:**<br>
 [Samira Ajorpaz](https://mirbaghercom.wordpress.com/), NCSU
 
-**Travel Grant Chair:**<br>
+**Registration Chair:**<br>
 [Changhee Jung](https://www.cs.purdue.edu/homes/chjung/), Purdue University
 
 **Artifact Evaluation Chairs:**<br>
