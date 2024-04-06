@@ -109,5 +109,8 @@ show_sidebar: true
 - Vijay Nagarajan, University of Utah
 - Yaman Umuroglu, AMD
 
-
+## External Review Committee
+- Chang Hyun Park, Uppsala University
+- Gokul Subramanian Ravi , University of Michigan
+- Jakub Szefer , Yale University
 
