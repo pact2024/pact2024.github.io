@@ -111,6 +111,6 @@ show_sidebar: true
 
 ## External Review Committee
 - Chang Hyun Park, Uppsala University
-- Gokul Subramanian Ravi , University of Michigan
-- Jakub Szefer , Yale University
+- Gokul Subramanian Ravi, University of Michigan
+- Jakub Szefer, Yale University
 
