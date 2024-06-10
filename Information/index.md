@@ -51,19 +51,23 @@ Submit your extended abstract at: [https://pact24src.hotcrp.com/](https://pact24
 
 ## Poster, Video, and Presentation Requirements
 
+
 ##### Poster Requirements
 
 - Organized and clear content
 - PDF submission by September 20, 2024
 - Print and bring your poster for presentation in-person
 
+
 ##### Final Presentation Requirements
 
 - Short 8-minute presentation, followed by a 4-minute Q&A (details will be announced later)
 
+
 ##### Virtual Presentations
 
 Details will be released closer to the conference.
+
 
 ## Attendance
 
