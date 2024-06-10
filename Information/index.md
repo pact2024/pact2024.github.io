@@ -67,7 +67,8 @@ Details will be released closer to the conference.
 
 ## Attendance
 
-Accepted students will have registration costs waived. Additional travel support may be available through [PACT or other programs].
+<span style="color: red;">Accepted students will have registration costs waived. Additional travel support may be available through [PACT or other programs].</span>
+
 
 Good luck, and we look forward to your participation in June!
 
