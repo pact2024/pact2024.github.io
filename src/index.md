@@ -66,9 +66,9 @@ Submit your extended abstract at: [https://pact24src.hotcrp.com/](https://pact24
 
 ##### Virtual Presentations
 
-### Details will be released closer to the conference.
+Details will be released closer to the conference.
 
 
 <br> <br> <br>
 
-Good luck, and we look forward to your participation in July!
+### Good luck, and we look forward to your participation in July!
