@@ -14,7 +14,7 @@ PACT 2024 will conduct artifact evaluation (AE) this year. AE has become a commo
 
 PACT 2024’s artifact evaluation process will follow the [guidelines for artifact evaluation set by ML Commons](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/submission.md).
 
-**Artifact submissions will be due by August 22, 2023**.
+**Artifact submissions will be due by July 8, 2024**.
 
 Authors are invited to formally describe all supporting material (code, data, models, workflows, results) using the [unified Artifact Appendix and the Reproducibility Checklist template](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/checklist.md) and submit it to the [single-blind AE process](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/reviewing.md). Reviewers will then collaborate with the authors to evaluate their artifacts and assign the following [ACM reproducibility badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current):
 
@@ -51,7 +51,7 @@ Note that your artifacts will receive the ACM "artifact available" badge **only 
 
 Write a brief abstract describing your artifact, the minimal hardware and software requirements, how it supports your paper, how it can be validated and what the expected result is. Do not forget to specify if you use any proprietary software or hardware! This abstract will be used by evaluators during artifact bidding to make sure that they have an access to appropriate hardware and software and have required skills.
 
-Submit the artifact abstract and the PDF of your paper with the Artifact Appendix attached using the PACT AE HotCRP website, [https://pact24ae.hotcrp.com/](https://pact24ae.hotcrp.com/). Artifact evaluation will go live on **18 August 2023**.
+Submit the artifact abstract and the PDF of your paper with the Artifact Appendix attached using the PACT AE HotCRP website, [https://pact24ae.hotcrp.com/](https://pact24ae.hotcrp.com/). Artifact evaluation will go live on **July 8, 2024**.
 
 ## Asking questions
 
