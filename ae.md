@@ -1,5 +1,5 @@
 ---
-title: PACT 2023 Artifact evaluation
+title: PACT 2024 Artifact evaluation
 description:  Artifact evaluation instructions
 id:           ae
 layout:       page_sidebar
@@ -10,7 +10,9 @@ show_sidebar: true
 
 _Note: This page is based on the [submission guidelines for artifact evaluation set by ML Commons](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/submission.md)._
 
-PACT 2023 is happy to introduce an Artifact Evaluation process to promote the reproducibility of experimental results. We encourage artifact sharing to help the community quickly validate and compare alternative approaches. PACT 2023’s artifact evaluation process will follow the [guidelines for artifact evaluation set by ML Commons](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/submission.md).
+PACT 2024 will conduct artifact evaluation (AE) this year. AE has become a common practice in the systems and architecture community (OSDI, PLDI, PACT, ISCA, MICRO, MLSys, HPCA, ASPLOS). We invite the authors of accepted PACT 2024 papers to submit their artifacts to be assessed based on the ACM Artifact Review and Badging policy. Note that this submission is voluntary and will not influence the final decision regarding the papers. 
+
+PACT 2024’s artifact evaluation process will follow the [guidelines for artifact evaluation set by ML Commons](https://github.com/mlcommons/ck/blob/master/docs/artifact-evaluation/submission.md).
 
 **Artifact submissions will be due by August 22, 2023**.
 
@@ -36,7 +38,6 @@ Feel free to reuse [portable CM scripts](https://github.com/mlcommons/ck/tree/ma
 
 Most of the time, the authors make their artifacts available to the evaluators via GitHub, GitLab, BitBucket or private repositories. It allows the authors to quickly fix encountered issues during evaluation before submitting the final version to archival repositories.
 
-
 Other acceptable methods include:
 
 *   Using zip or tar files with all related code and data, particularly when your artifact should be rebuilt on reviewers' machines (for example to have a non-virtualized access to a specific hardware).
@@ -50,11 +51,11 @@ Note that your artifacts will receive the ACM "artifact available" badge **only 
 
 Write a brief abstract describing your artifact, the minimal hardware and software requirements, how it supports your paper, how it can be validated and what the expected result is. Do not forget to specify if you use any proprietary software or hardware! This abstract will be used by evaluators during artifact bidding to make sure that they have an access to appropriate hardware and software and have required skills.
 
-Submit the artifact abstract and the PDF of your paper with the Artifact Appendix attached using the PACT HotCRP website. Artifact evaluation will go live on 18 August 2023.
+Submit the artifact abstract and the PDF of your paper with the Artifact Appendix attached using the PACT AE HotCRP website, [https://pact24ae.hotcrp.com/](https://pact24ae.hotcrp.com/). Artifact evaluation will go live on **18 August 2023**.
 
 ## Asking questions
 
-If you have questions or suggestions, do not hesitate to get in touch with the the AE chairs: James Tuck [jtuck AT ncsu DOT edu] or Soumyadeep Ghosh [deepghosh AT meta DOT com].
+If you have questions or suggestions, do not hesitate to get in touch with the the AE chairs: Biswa Panda [biswa AT cse DOT iitb DOT ac DOT in] or SBastian Hagedorn [hagedornbastian AT gmail DOT com].
 
 ##  Preparing your camera-ready paper
 
