@@ -55,7 +55,7 @@ Submit the artifact abstract and the PDF of your paper with the Artifact Appendi
 
 ## Asking questions
 
-If you have questions or suggestions, do not hesitate to get in touch with the the AE chairs: Biswa Panda [biswa AT cse DOT iitb DOT ac DOT in] or SBastian Hagedorn [hagedornbastian AT gmail DOT com].
+If you have questions or suggestions, do not hesitate to get in touch with the the AE chairs: Biswa Panda [biswa AT cse DOT iitb DOT ac DOT in] or SBastian Hagedorn [bhagedorn AT nvidia DOT com].
 
 ##  Preparing your camera-ready paper
 
