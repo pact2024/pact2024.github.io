@@ -86,11 +86,10 @@ show_sidebar: true
 - John Kim, KAIST
 - Julio Sahuquillo, Universitat Politècnica de València
 - Lieven Eeckhout, Ghent University
-- Louis-Noel Pouchet, University of Colorado
+- Louis-Noel Pouchet, Colorado State University
 - Magnus Själander, Norwegian University of Science and Technology
 - Mahmut Taylan Kandemir, Pennsylvania State University
 - Michael O'Boyle, University of Edinburgh
-- Michel Steuwer, Technische Universität Berlin
 - Nilay Vaish, Google
 - Pavlos Petoumenos, University of Manchester
 - Pedro Diniz, University of Porto
@@ -113,4 +112,5 @@ show_sidebar: true
 - Chang Hyun Park, Uppsala University
 - Gokul Subramanian Ravi, University of Michigan
 - Jakub Szefer, Yale University
-
+- Juan Manuel Cebrian, University of Murcia
+- Manil Dev Gomony, Eindhoven University of Technology
