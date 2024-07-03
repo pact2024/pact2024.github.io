@@ -114,3 +114,4 @@ show_sidebar: true
 - Jakub Szefer, Yale University
 - Juan Manuel Cebrian, University of Murcia
 - Manil Dev Gomony, Eindhoven University of Technology
+- Peter Munch, Uppsala
