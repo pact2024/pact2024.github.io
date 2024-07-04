@@ -68,7 +68,6 @@ show_sidebar: true
 
 ## Technical Program Committee
 - Ajeya Naithani, Ghent University
-- Alexandra Jimborean, University of Murcia
 - Andre Seznec, Inria
 - Christina Giannoula, University of Toronto
 - Christos Sakalis, SambaNova Systems
@@ -98,7 +97,6 @@ show_sidebar: true
 - Ravishankar Iyer, Intel Labs
 - Roger Moussalli, Two Sigma
 - Sam Ainsworth, University of Edinburgh
-- Stefanos Kaxiras, Uppsala University
 - Steve Blackburn, Google and Australian National University
 - Swamit Tannu, University of Wisconsin, Madison
 - Thomas Chau, Neubla
