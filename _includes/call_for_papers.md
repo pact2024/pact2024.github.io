@@ -123,14 +123,14 @@ Papers that successfully go through the Artifact Evaluation process will receive
 
 ## Camera ready instructions
 
-### Page limit
+#### Page limit
 The final version of the accepted paper should not exceed 11 pages, with the provision of an additional 2 pages specifically allocated for the artifact appendix, if applicable. It is important to note that these 2 extra pages should be used exclusively for the artifact appendix and nothing else. The page limit applies to all content except the references section.
 Additionally, authors have the option to purchase up to 2 extra pages at a rate of $200 USD per page. Payment for these additional pages should be made during the conference registration process through the conference registration system
 
-### Copyright Forms
+#### Copyright Forms
 Contact authors will receive an email from the ACM e-rights system. Please be on the lookout for this email and make sure you respond (fill the associated form) within 24 hours from getting it.
 
-### Uploading
+#### Uploading
 Contact authors will receive an email from the ACM e-rights system once they submit the copyright. Please upload the camera-ready version of your paper through TAPS. Note that the camera-ready paper should follow the template available on the ACM Author Gateway.
 
 
