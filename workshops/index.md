@@ -13,8 +13,8 @@ We are soliciting proposals for workshops and tutorials within [the general scop
 Those interested in organizing a workshop or tutorial are invited to contact the Workshops and Tutorials Chair Hoda Naghibijouybari, [hnaghibi@qti.qualcomm.com](hnaghibi@qti.qualcomm.com). We will be doing rolling acceptances and encourage potential organizers to contact us as soon as possible.
 
 ## Important Dates
-*	Submission deadline for workshops: July 3rd, 2024.
-*	Submission deadline for tutorials: August 9th, 2024.
+*	Submission deadline for workshops: July 3, 2024.
+*	Submission deadline for tutorials: July 31, 2024.
 *	Workshop/Tutorials to be held on October 13, 2024 (full day) and October 16, 2024 (afternoon).
 
 ## Proposal Submission
