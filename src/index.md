@@ -46,6 +46,7 @@ Submit your extended abstract at: [https://pact24src.hotcrp.com/](https://pact24
 
 ## Important Dates
 
+- **Abstract Registration Deadline: July 26, 2024
 - **Abstract Submission Deadline:** July 31, 2024
 - **Author Notification:** August 31, 2024
 
