@@ -14,7 +14,7 @@ Those interested in organizing a workshop or tutorial are invited to contact the
 
 ## Important Dates
 *	Submission deadline for workshops: July 3, 2024.
-*	Submission deadline for tutorials: July 31, 2024.
+*	Submission deadline for tutorials: August 8, 2024.
 *	Workshop/Tutorials to be held on October 13, 2024 (full day) and October 16, 2024 (afternoon).
 
 ## Proposal Submission
