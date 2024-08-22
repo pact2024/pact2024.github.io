@@ -11,7 +11,7 @@ show_sidebar: true
 What's on this page
 
 * [Venue](#venue)
-
+* [Registration](#registration)
 
 
 <br>
