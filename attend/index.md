@@ -73,5 +73,5 @@ See [pricing via our registration vendor](https://web.cvent.com/event/b3dea94b-e
 
 ### Cancellation policy
 
-If you cancel your attendance on or before September 17, a $150 cancellation fee is due.
+If you cancel your attendance on or before September 27, a $100 cancellation fee is due.
 Cancellations after this date do not receive a refund.
