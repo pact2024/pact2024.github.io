@@ -50,24 +50,24 @@ See [pricing via our registration vendor](https://web.cvent.com/event/b3dea94b-e
 
 ### Full Conference
 
-| Registration Type        | | Early-Bird | Regular  |
-|--------------------------|-|-----------|----------|
-| ACM/IEEE Member          | | $925.00    | $1000.00 |
-| Non-Member     	         | | $975.00    | $1100.00 |
-| Student Member           | | $700.00    | $775.00  |
-| Student Non-Member       | | $750.00    | $825.00  |
-| Additional Excursion Ticket | | $200.00 | $200.00  |
+| Registration Type           | | Early-Bird | | Regular  |
+|-----------------------------|-|------------|-|----------|
+| ACM/IEEE Member             | | $925.00    | | $1000.00 |
+| Non-Member     	            | | $975.00    | | $1100.00 |
+| Student Member              | | $700.00    | | $775.00  |
+| Student Non-Member          | | $750.00    | | $825.00  |
+| Additional Excursion Ticket | | $200.00    | | $200.00  |
 
 <!-- <br> -->
 
 ### Tutorials/Workshops
 
-| Registration Type   | Early-Bird | Regular |
-| --------------------|------------|---------|
-| ACM/IEEE Member     | $300.00    | $400.00 |
-| Non-Member          | $400.00    | $500.00 |
-| Student Member      | $250.00    | $350.00 |
-| Student Non-Member  | $350.00    | $450.00 |
+| Registration Type   | | Early-Bird | | Regular |
+| --------------------|-|------------|-|---------|
+| ACM/IEEE Member     | | $300.00    | | $400.00 |
+| Non-Member          | | $400.00    | | $500.00 |
+| Student Member      | | $250.00    | | $350.00 |
+| Student Non-Member  | | $350.00    | | $450.00 |
 
 <!-- <br> -->
 
