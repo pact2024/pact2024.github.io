@@ -217,8 +217,4 @@ show_sidebar: true
 	</tr>
 </table>
 
-<br/>
-{% include keynotes.html %}
 
-<br/>
-{% include list_of_papers.md %}
