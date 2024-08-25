@@ -51,7 +51,7 @@ show_sidebar: true
 	</tr>
 	<tr>
 		<td>08:30</td>
-		<td>Keynote</td>
+		<td>Keynote 1</td>
 	</tr>
 	<tr>
 		<td>09:30</td>
