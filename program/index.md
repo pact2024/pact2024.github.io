@@ -1,661 +1,73 @@
----
-title: PACT 2023 Technical program
-description:  Preliminary program
-id:           program
-layout:       page_sidebar
-show_sidebar: true
----
+### Sunday, October 13, 2024
 
-# Schedule
+| Time  | Event |
+|-------|-------|
+| 8:00  | Tutorial – QVT: The Quantum Visualization Toolkit |
+| 12:00 | Lunch (provided) |
+| 13:30 | Workshop – The 4th International Workshop on Machine Learning for Software Hardware Co-Design (MLS/H) |
+| 18:00 | Reception and Posters |
 
-* [Saturday, October 21, 2023](#saturday-october-21-2023)
-* [Sunday, October 22, 2023](#sunday-october-22-2023)
-* [Monday, October 23, 2023](#monday-october-23-2023)
-* [Tuesday, October 24, 2023](#tuesday-october-24-2023)
-* [Wednesday, October 25, 2023](#wednesday-october-25-2023)
+### Monday, October 14, 2024
 
-### Saturday, October 21, 2023
+| Time  | Event |
+|-------|-------|
+| 8:00  | Opening |
+| 8:30  | Keynote |
+| 9:30  | Break |
+| 10:00 | **Session 1: Machine Learning (4 papers)** |
+|       | *GraNNDis: Fast Distributed Graph Neural Network Training Framework for Multi-Server Clusters*<br> Jaeyong Song, Hongsun Jang, Hunseong Lim, Jaewon Jung (Seoul National University); Youngsok Kim (Yonsei University); Jinho Lee (Seoul National University) |
+|       | *Activation Sequence Caching: High-Throughput and Memory-Efficient Generative Inference with a Single GPU*<br> Sowoong Kim, Eunyeong Sim (UNIST); Youngsam Shin, YeonGon Cho (Samsung Advanced Institute of Technology); Woongki Baek (UNIST) |
+|       | *Improving Throughput-oriented LLM Inference with CPU Computations*<br> Daon Park, Bernhard Egger (Seoul National University) |
+|       | *BOOM: Use your Desktop to Accurately Predict the Performance of Large Deep Neural Networks*<br> Qidong Su (University of Toronto / Vector Institute / CentML); Jiacheng Yang (University of Toronto / Vector Institute); Gennady Pekhimenko (University of Toronto / Vector Institute / CentML) |
+| 12:00 | Lunch (provided) |
+| 13:30 | **Session 2: Architecture and Application Co-Design (3 papers)** |
+|       | *Demystifying Distributed Optimization Algorithms on a Real-World Processing-In-Memory Architecture*<br> Steve Rhyner, Haocong Luo (ETH Zurich); Juan Gomez Luna (NVIDIA); Mohammad Sadrosadati (ETH Zurich); Jiawei Jiang (Wuhan University); Ataberk Olgun, Harshita Gupta (ETH Zurich); Ce Zhang (University of Chicago); Onur Mutlu (ETH Zurich & Stanford University) |
+|       | *ZeD: A Generalized Accelerator for Variably Sparse Matrix Computations in ML*<br> Pranav Dangi, Zhenyu Bai, Rohan Juneja, Dhananjaya Wijerathne, Tulika Mitra (National University of Singapore) |
+|       | *A Parallel Hash Table for Streaming Applications*<br> Magnus Östgren, Ioannis Sourdis (Chalmers University of Technology) |
+| 15:00 | Break |
+| 15:30 | **Session 3: Parallelism (3 papers)** |
+|       | *Leveraging Difference Recurrence Relations for High-Performance GPU Genome Alignment*<br> Alberto Zeni (Politecnico di Milano, Italy); Seth Onken (NVIDIA Corporation); Marco D. Santambrogio (Politecnico di Milano, Italy); Mehrzad Samadi (NVIDIA Corporation) |
+|       | *ACE: Efficient GPU Kernel Concurrency for Input-Dependent Irregular Computational Graphs*<br> Sankeerth Durvasula, Junan Zhao, Raymond Kiguru, Yushi Guan, Zhonghan Chen, Nandita Vijaykumar (University of Toronto) |
+|       | *Optimizing Tensor Computation Graphs with Equality Saturation and Monte Carlo Tree Search*<br> Jakob Hartmann, Guoliang He, Eiko Yoneki (University of Cambridge) |
+| 17:30 | Business Meeting |
 
-<table class="table table-striped">
-	<thead>
-		<th>
-			Time
-		</th>
-		<th>
-			What
-		</th>
-	</thead>
-	<tr>
-		<td>
-			09:00 - 10:30
-		</td>
-		<td>
-			<a href="/workshops">Workshops and tutorials</a> - first block
-		</td>
-	</tr>
-	<tr>
-		<td>
-			10:30 - 11:00
-		</td>
-		<td>
-			Coffee break
-		</td>
-	</tr>
-	<tr>
-		<td>
-			11:00 - 12:30
-		</td>
-		<td>
-			<a href="/workshops">Workshops and tutorials</a> - second block
-		</td>
-	</tr>
-	<tr>
-		<td>
-			12:30 - 13:30
-		</td>
-		<td>
-			Lunch break
-		</td>
-	</tr>
-	<tr>
-		<td>
-			13:30 - 15:00
-		</td>
-		<td>
-			<a href="/workshops">Workshops and tutorials</a> - third block
-		</td>
-	</tr>
-	<tr>
-		<td>
-			15:00 - 15:30
-		</td>
-		<td>
-			Coffee break
-		</td>
-	</tr>
-	<tr>
-		<td>
-			15:30 - 17:30
-		</td>
-		<td>
-			<a href="/workshops">Workshops and tutorials</a> - last block
-		</td>
-	</tr>
-</table>
+### Tuesday, October 15, 2024
 
-### Sunday, October 22, 2023
+| Time  | Event |
+|-------|-------|
+| 8:30  | Keynote 2 |
+| 9:30  | Break |
+| 10:00 | **Session 4: Compilers (4 papers)** |
+|       | *A Transducers-based Programming Framework for Efficient Data Transformation*<br> Tri Nguyen, Michela Becchi (North Carolina State University) |
+|       | *MIREncoder: Multi-modal IR-based Pretrained Embeddings for Performance Optimizations*<br> Akash Dutta, Ali Jannesari (Iowa State University) |
+|       | *Parallel Loop Locality Analysis for Symbolic Thread Counts*<br> Fangzhou Liu, Yifan Zhu, Shaotong Sun, Chen Ding, Wesley Smith, Kaave Hosseini (University of Rochester) |
+|       | *PipeGen: Automated Transformation of a Single-Core Pipeline into a Multicore Pipeline for a Given Memory Consistency Model*<br> An Qi Zhang (University of Utah), Andrés Goens (University of Amsterdam), Nicolai Oswald (Nvidia), Tobias Grosser (University of Cambridge), Daniel Sorin (Duke University), Vijay Nagarajan (University of Utah) |
+| 12:00 | Lunch (provided) |
+| 13:30 | **Session 5: Security (4 papers)** |
+|       | *Defensive ML: Adversarial Machine Learning as a Practical Architectural Defense for Side Channels*<br> Hyoungwook Nam (University of Illinois at Urbana-Champaign); Raghavendra Pradyumna Pothukuchi (Yale University); Bo Li, Nam Sung Kim (University of Illinois Urbana-Champaign); Josep Torrellas (University of Illinois at Urbana-Champaign) |
+|       | *Toast: A Heterogeneous Memory Management System*<br> Maurice Bailleu (Huawei Research); Dimitrios Stavrakakis (TU Munich / The University of Edinburgh); Rodrigo Rocha (Huawei Research); Soham Chakraborty (TU Delft); Deepak Garg (Max Planck Institute for Software Systems (MPI-SWS)); Pramod Bhatotia (TU Munich / The University of Edinburgh) |
+|       | *BoostCom: Towards Efficient Universal Fully Homomorphic Encryption by Boosting the Word-wise Comparisons*<br> Ardhi Wiratama Baskara Yudha, Jiaqi Xue, Qian Lou (University of Central Florida); Huiyang Zhou (North Carolina State University); Yan Solihin (University of Central Florida) |
+|       | *SZKP: A Scalable Accelerator Architecture for Zero-Knowledge Proofs*<br> Alhad Daftardar, Brandon Reagen, Siddharth Garg (New York University) |
+| 15:30 | Break |
+| 16:00 | **Session 6: Quantum & Neuromorphic (3 papers)** |
+|       | *Recompiling QAOA Circuits on Various Rotational Directions*<br> Enhyeok Jang, Dongho Ha, Seungwoo Choi, Youngmin Kim, Jaewon Kwon, Yongju Lee, Sungwoo Ahn, Hyungseok Kim, Won Woo Ro (Yonsei University) |
+|       | *Faster and More Reliable Quantum SWAPs via Native Gates*<br> Pranav Gokhale, Teague Tomesh (Infleqtion); Martin Suchara (Microsoft); Fred Chong (University of Chicago) |
+|       | *NavCim: Comprehensive Design Space Exploration for Analog Computing-in-Memory Architectures*<br> Juseong Park, Boseok Kim (Pohang University of Science and Technology); Hyojin Sung (Seoul National University) |
+| 17:30 | Break |
+| 18:00 | Conference Dinner |
 
-<table class="table table-striped">
-	<thead>
-		<th>
-			Time
-		</th>
-		<th>
-			What
-		</th>
-	</thead>
-	<tr>
-		<td>
-			09:00 - 10:30
-		</td>
-		<td>
-			<a href="/workshops">Workshops and tutorials</a> - first block
-		</td>
-	</tr>
-	<tr>
-		<td>
-			10:30 - 11:00
-		</td>
-		<td>
-			Coffee break
-		</td>
-	</tr>
-	<tr>
-		<td>
-			11:00 - 12:30
-		</td>
-		<td>
-			<a href="/workshops">Workshops and tutorials</a> - second block
-		</td>
-	</tr>
-	<tr>
-		<td>
-			12:30 - 13:30
-		</td>
-		<td>
-			Lunch break
-		</td>
-	</tr>
-	<tr>
-		<td>
-			13:30 - 15:00
-		</td>
-		<td>
-			<a href="/workshops">Workshops and tutorials</a> - third block
-		</td>
-	</tr>
-	<tr>
-		<td>
-			15:00 - 15:30
-		</td>
-		<td>
-			Coffee break
-		</td>
-	</tr>
-	<tr>
-		<td>
-			15:30 - 17:30
-		</td>
-		<td>
-			<a href="/workshops">Workshops and tutorials</a> - last block
-		</td>
-	</tr>
-</table>
+### Wednesday, October 16, 2024
 
-### Monday, October 23, 2023
-
-<table class="table table-striped">
-	<thead>
-		<th>
-			Time
-		</th>
-		<th>
-			What
-		</th>
-	</thead>
-	<tr>
-		<td>
-			8:00
-		</td>
-		<td>
-			Opening
-		</td>
-	</tr>
-	<tr>
-		<td>
-			8:30
-		</td>
-		<td>
-			Keynote: <a href="#keynote1">Concurrent Data Sketches</a>, Idit Keidar, Technion - Israel Institute of Technology
-		</td>
-	</tr>
-	<tr>
-		<td>
-			9:30
-		</td>
-		<td>
-			Break
-		</td>
-	</tr>
-	<tr>
-		<td>
-			10:00
-		</td>
-		<td>
-			<b>Session: Compilers</b>
-			<br>
-            <b>Chair:</b> Albert Cohen
-            <br>
-			<ul>
-				<li>
-					10:00 – 10:30
-					<br>
-					<b>
-						CELLO: Compiler-Assisted Efficient Load-Load Ordering in Data-Race-Free Regions
-					</b>
-					<br>
-					Sawan Singh, Josue Feliu, Manuel E. Acacio, Alexandra Jimborean, Alberto Ros
-				</li>
-				<li>
-					10:30 – 11:00
-					<br>
-					<b>
-						Automatic Code Generation for High-Performance Graph Algorithms,
-					</b>
-					<br>
-					Zhen Peng, Rizwan A. Ashraf, Luanzheng Guo, Ruiqin Tian, Gokcen Kestor
-				</li>
-				<li>
-					11:00 – 11:30
-					<br>
-					<b>
-						UWOmp𝑝𝑟𝑜: UWOmp++ with Point-to-Point Synchronization, Reduction and Schedules
-					</b>
-					<br>
-					Aditya Agrawal, V. Krishna Nandivada
-				</li>
-				<li>
-					11:30 – 12:00
-					<br>
-					<b>
-						mlirSynth: Automatic, Retargetable Program Raising in Multi-Level IR using Program Synthesis
-					</b>
-					<br>
-					Alexander Brauckmann, Elizabeth Polgreen, Tobias Grosser, Michael O'Boyle
-				</li>
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			12:00
-		</td>
-		<td>
-			Lunch
-		</td>
-	</tr>
-	<tr>
-		<td>
-			13:00
-		</td>
-		<td>
-			<b>Session: Memory system</b>
-			<br>
-            <b>Chair:</b> Bernhard Egger
-            <br>
-			<ul>
-				<li>
-					13:00 – 13:30
-					<br>
-					<b>
- 						Drishyam: An Image is Worth a Data Prefetcher
- 					</b>
- 					<br>
- 					Shubdeep Mohapatra, Biswabandan Panda
-				</li>
-				<li>
-					13:30 – 14:00
-					<br>
-					<b>
-						HugeGPT: Storing Guest Page Tables on Host Huge Pages to Accelerate Address Translation
-					</b>
-					<br>
-					Weiwei Jia, Jiyuan Zhang, Jianchen Shan, Yiming Du, Xiaoning Ding, Tianyin Xu
-				</li>
-				<li>
-					14:00 – 14:30
-					<br>
-					<b>
-						PreFlush: Lightweight Hardware Prediction Mechanism for Cache Line Flush and Writeback
-					</b>
-					<br>
-					Hussein Elnawawy, James Tuck, Gregory Byrd
-				</li>
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			14:30
-		</td>
-		<td>
-			Break
-		</td>
-	</tr>
-	<tr>
-		<td>
-			15:00
-		</td>
-		<td>
-			<b>Session: Memory system (cont)</b>
-			<br>
-            <b>Chair:</b> Tien-Pao Shih
-			<br>
-			<ul>
-				<li>
-					15:00 – 15:30
-					<br>
-					<b>
-						SDM: Sharing-enabled Disaggregated Memory System with Cache Coherent Compute Express Link
-					</b>
-					<br>
-					Hyokeun Lee, Kwanseok Choi, Hyuk-Jae Lee, Jaewoong Sim
-				</li>
-				<li>
-					15:30 – 16:00
-					<br>
-					<b>
-						SimplePIM: A Software Framework For Productive And Efficient In-Memory Processing
-					</b>
-					<br>
-					Jinfan Chen, Juan Gomez Luna, Izzat El Hajj, YuXin Guo, Onur Mutlu
-				</li>
-				<li>
-					16:00 – 16:30
-					<br>
-					<b>
-						Virtual PIM: Resource-aware Dynamic DPU Allocation and Workload Scheduling Framework on Multi-DPU PIM Architecture
-					</b>
-					<br>
-					Donghyeon Kim, Taehoon Kim, Inyong Hwang, Taehyeong Park, Hanjun Kim, Youngsok Kim, Yongjun Park
-				</li>
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			16:30
-		</td>
-		<td>
-			Break
-		</td>
-	</tr>
-	<tr>
-		<td>
-			17:00
-		</td>
-		<td>
-			Reception Poster session
-		</td>
-	</tr>
-	<tr>
-		<td>
-			19:00
-		</td>
-		<td>
-			Business meeting
-		</td>
-	</tr>
-</table>
-
-### Tuesday, October 24, 2023
-
-<table class="table table-striped">
-	<thead>
-		<th>
-			Time
-		</th>
-		<th>
-			What
-		</th>
-	</thead>
-	<tr>
-		<td>
-			8:30
-		</td>
-		<td>
-			Keynote: <a href="#keynote2">Energy-Efficient GPU Architectures for Real-Time Rendering</a>, Antonio González, UPC Barcelona
-		</td>
-	</tr>
-	<tr>
-		<td>
-			9:30
-		</td>
-		<td>
-			Break
-		</td>
-	</tr>
-	<tr>
-		<td>
-			10:00
-		</td>
-		<td>
-			Session: GPUs
-			<br>
-            <b>Chair:</b> Gregory Byrd
-			<br>
-			<ul>
-				<li>
-					10:00 – 10:30
-					<br>
-					<b>
-						Boustrophedonic Frames: Quasi-Optimal L2 Caching for Textures in GPUs
-					</b>
-					<br>
-					Diya Joseph, Juan L. Aragón, Joan-Manuel Parcerisa, Antonio Gonzalez
-				</li>
-				<li>
-					10:30 – 11:00
-					<br>
-					<b>
-						G-Sparse: Compiler-Driven Acceleration for Generalized Sparse Computation for Graph Neural Networks on Modern GPUs
-					</b>
-					<br>
-					Yue Jin, Heng Zhang, Chengying Huan, Yongchao Liu, Shuaiwen Leon Song, Rui Zhao, Yao Zhang, Charles He, Wenguang Chen
-				</li>
-				<li>
-					11:00 – 11:30
-					<br>
-					<b>
-						TSUNAMI: a GPU implementation of the WFA algorithm
-					</b>
-					<br>
-					Giulia Gerometta, Alberto Zeni, Marco D. Santambrogio
-				</li>
-				<li>
-					11:30 – 12:00
-					<br>
-					<b>
-						Parallelizing Maximal Clique Enumeration on GPUs
-					</b>
-					<br>
-					Mohammad Almasri, Yen-Hsiang Chang, Izzat El Hajj, Rakesh Nagi, Jinjun Xiong, Wen-mei Hwu
-				</li>
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			12:00
-		</td>
-		<td>
-			Lunch
-		</td>
-	</tr>
-	<tr>
-		<td>
-			13:00
-		</td>
-		<td>
-			Session: Algorithms
-			<br>
-            <b>Chair:</b> Michael Spear
-			<br>
-			<ul>
-				<li>
-					13:00 – 13:30
-					<br>
-					<b>
-						Accelerating Decision-Tree-based Inference through Adaptive Parallelization
-					</b>
-					<br>
-					Jan van Lunteren
-				</li>
-				<li>
-					13:30 – 14:00
-					<br>
-					<b>
-						Automatic Algorithm-Based Fault Tolerance (AABFT) of Stencil Computations
-					</b>
-					<br>
-					Louis Narmour, Steven Derrien, Sanjay Rajopadhye
-				</li>
-				<li>
-					14:00 – 14:30
-					<br>
-					<b>
-						Performance Characterization of Popular DNN Models on Out-of-Order CPUs
-					</b>
-					<br>
-					Pablo Prieto, Pablo Abad, Jose Angel Gregorio, Valentin Puente
-				</li>
-				<li>
-					14:30 – 15:00
-					<br>
-					<b>
-						GraphMini: Accelerating Subgraph Enumeration Using Auxiliary Graphs
-					</b>
-					<br>
-					Juelin Liu, Sandeep Polisetty, Hui Guan, Marco Serafini
-				</li>
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			15:00
-		</td>
-		<td>
-			Break
-		</td>
-	</tr>
-	<tr>
-		<td>
-			15:30
-		</td>
-		<td>
-			<b>Session: Architecture</b>
-            <br>
-            <b>Chair:</b> Tamara Lehman
-			<br>
-			<ul>
-				<li>
-					15:30 – 16:00
-					<br>
-					<b>
-						Barad-dur: Near-Storage Accelerator for Training Large Graph Neural Networks
-					</b>
-					<br>
-					Jiyoung An, Sang-Woo Jun
-				</li>
-				<li>
-					16:00 – 16:30
-					<br>
-					<b>
-						A Silicon Photonic Multi-DNN Accelerator
-					</b>
-					<br>
-					Yuan Li, Ahmed Louri, Avinash Karanth
-				</li>
-				<li>
-					16:30 – 17:00
-					<br>
-					<b>
-						Architecture-Aware Currying
-					</b>
-					<br>
-					Mahmut Taylan Kandemir, Gulsum Gudukbay Akbulut, Wonil Choi, Mustafa Karakoy
-				</li>
-				<li>
-					17:00 – 17:30
-					<br>
-					<b>
-						SpecCheck: A Tool for Systematic Identification of Vulnerable Transient Execution in gem5
-					</b>
-					<br>
-					Zack McKevitt, Ashutosh Trivedi, Tamara Silbergleit Lehman
-				</li>
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			17:30
-		</td>
-		<td>
-			Break
-		</td>
-	</tr>
-	<tr>
-		<td>
-			18:30
-		</td>
-		<td>
-			<a href="/attend/#conference-dinner">Conference dinner</a> at the <a href="https://www.mottoamfluss.at/en/welcome/">Motto am Fluss</a>
-		</td>
-	</tr>
-</table>
-
-### Wednesday, October 25, 2023
-
-<table class="table table-striped">
-	<thead>
-		<th>
-			Time
-		</th>
-		<th>
-			What
-		</th>
-		<th>
-			Where
-		</th>
-	</thead>
-	<tr>
-		<td>
-			8:30
-		</td>
-		<td>
-			Keynote: <a href="#keynote3">Optimizing Compilers in an Age of Ubiquitous AI</a>, Albert Cohen, Google DeepMind
-		</td>
-	</tr>
-	<tr>
-		<td>
-			9:30
-		</td>
-		<td>
-			Break
-		</td>
-	</tr>
-	<tr>
-		<td>
-			10:00
-		</td>
-       <td> SRC poster winners presentations</td>
-		<td>
-		</td>
-     </tr>
-	<tr>
-		<td>
-			11:00
-		</td>
-		<td>
-			<b>Session: Optimization</b>
-			<br>
-            <b>Chair:</b> Riyadh Baghdadi
-			<br>
-			<ul>
-				<li>
-					11:00 – 11:30
-					<br>
-					<b>
-						Separating Mechanism from Policy in STM
-					</b>
-					<br>
-					Yaodong Sheng, Ahmed Hassan, Michael Spear
-				</li>
-				<li>
-					11:30 – 12:00
-					<br>
-					<b>
-						MBAPIS: Multi-Level Behavior Analysis Guided Program Interval Selection for Microarchitecture Studies
-					</b>
-					<br>
-					Hongwei Cui, Yujie Cui, Honglan Zhan, Shuhao Liang, Xianhua Liu, Chun Yang, Xu Cheng
-				</li>
-				<li>
-					12:00 – 12:30
-					<br>
-					<b>
-						INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core
-					</b>
-					<br>
-					Jae Seok Kwak, Myung Kuk Yoon, Ipoom Jeong, Seunghyun Jin, Won Woo Ro
-				</li>
-			</ul>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			12:30
-		</td>
-		<td>
-			Closing
-		</td>
-	</tr>
-</table>
-
-<br/>
-{% include keynotes.html %}
-
-<br/>
-{% include list_of_papers.md %}
+| Time  | Event |
+|-------|-------|
+| 8:00  | **Session 7: Memory (3 papers)** |
+|       | *MORSE: Memory Overwrite Time Guided Soft Writes to Improve ReRAM Energy and Endurance*<br> Devesh Singh (University of Maryland, College Park); Donald Yeung (University of Maryland) |
+|       | *Trimma: Trimming Metadata Storage and Latency for Hybrid Memory Systems*<br> Yiwei Li, Boyu Tian, Mingyu Gao (Tsinghua University) |
+|       | *Chimera: Leveraging Hybrid Offsets for Efficient Data Prefetching*<br> Shuiyi He, Zicong Wang, Xuan Tang, Qiyao Sun, Dezun Dong (National University of Defense Technology) |
+| 9:30  | Break |
+| 10:00 | SRC Poster Winners Presentations |
+| 11:00 | **Session 8: Address Translation, Coherence, and Communication (3 papers)** |
+|       | *Rethinking Page Table Structure for Fast Address Translation in GPUs: A Fixed-Size Hashed Page Table*<br> Sungbin Jang, Junhyeok Park, Osang Kwon, Yongho Lee, Seokin Hong (Sungkyunkwan University) |
+|       | *Taming the Acceleration Tax: Enabling New Opportunities for Fine-Grained, Disaggregated Accelerator-Level Parallelism*<br> Vignesh Suresh, Bakshree Mishra, Zeran Zhu, Ying Jing, Naiyin Jin, Charles Block (University of Illinois at Urbana-Champaign); Paolo Mantovani, Davide Giri, Joseph Zuckerman, Luca P. Carloni (Columbia University); Sarita Adve (University of Illinois at Urbana-Champaign) |
+|       | *vSPACE: Supporting Parallel Network Packet Processing in Virtualized Environments through Dynamic Core Management*<br> Gyeongseo Park, Minho Kim (DGIST); Ki-Dong Kang (DGIST/ETRI); Yunhyeong Jeon, Sungju Kim, Hyosang Kim (DGIST); Daehoon Kim (Yonsei University) |
+| 12:30 | Closing |
