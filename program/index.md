@@ -164,6 +164,10 @@ show_sidebar: true
 		</td>
 	</tr>
 	<tr>
+		<td>17:30</td>
+		<td>Break</td>
+	</tr>
+	<tr>
 		<td>18:00</td>
 		<td><a href="/attend/#conference-dinner">Conference dinner</a></td>
 	</tr>
