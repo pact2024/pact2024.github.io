@@ -86,9 +86,15 @@ Qidong Su (University of Toronto / Vector Institute / CentML); Jiacheng Yang (Un
 		<td>
 			<b>Session 2: Architecture and Application Co-design (3 papers)</b>
 			<ul>
-				<li><b>Demystifying Distributed Optimization Algorithms on a Real-World Processing-In-Memory Architecture</b></li>
-				<li><b>ZeD:</b> A Generalized Accelerator for Variably Sparse Matrix Computations in ML</li>
-				<li><b>A Parallel Hash Table for Streaming Applications</b></li>
+				<li>Demystifying Distributed Optimization Algorithms on a Real-World Processing-In-Memory Architecture<br>
+Steve Rhyner, Haocong Luo (ETH Zurich); Juan Gomez Luna (NVIDIA); Mohammad Sadrosadati (ETH Zurich); Jiawei Jiang (Wuhan University); Ataberk Olgun, Harshita Gupta (ETH Zurich); Ce Zhang (University of Chicago); Onur Mutlu (ETH Zurich & Stanford University)
+</li>
+				<li>ZeD: A Generalized Accelerator for Variably Sparse Matrix Computations in ML<br> 
+Pranav Dangi, Zhenyu Bai, Rohan Juneja, Dhananjaya Wijerathne, Tulika Mitra (National University of Singapore)
+</li>
+				<li>A Parallel Hash Table for Streaming Applications<br>
+Magnus Östgren, Ioannis Sourdis (Chalmers University of Technology)
+</li>
 			</ul>
 		</td>
 	</tr>
@@ -101,9 +107,15 @@ Qidong Su (University of Toronto / Vector Institute / CentML); Jiacheng Yang (Un
 		<td>
 			<b>Session 3: Parallelism (3 papers)</b>
 			<ul>
-				<li><b>Leveraging Difference Recurrence Relations for High-Performance GPU Genome Alignment</b></li>
-				<li><b>ACE:</b> Efficient GPU Kernel Concurrency for Input-Dependent Irregular Computational Graphs</li>
-				<li><b>Optimizing Tensor Computation Graphs with Equality Saturation and Monte Carlo Tree Search</b></li>
+				<li>Leveraging Difference Recurrence Relations for High-Performance GPU Genome Alignment<br> 
+Alberto Zeni (Politecnico di Milano, Italy); Seth Onken (NVIDIA Corporation); Marco D. Santambrogio (Politecnico di Milano, Italy); Mehrzad Samadi (NVIDIA Corporation)
+</li>
+				<li>ACE: Efficient GPU Kernel Concurrency for Input-Dependent Irregular Computational Graphs<br> 
+Sankeerth Durvasula, Junan Zhao, Raymond Kiguru, Yushi Guan, Zhonghan Chen, Nandita Vijaykumar (University of Toronto)
+</li>
+				<li>Optimizing Tensor Computation Graphs with Equality Saturation and Monte Carlo Tree Search<br> 
+Jakob Hartmann, Guoliang He, Eiko Yoneki (University of Cambridge)
+</li>
 			</ul>
 		</td>
 	</tr>
@@ -133,10 +145,18 @@ Qidong Su (University of Toronto / Vector Institute / CentML); Jiacheng Yang (Un
 		<td>
 			<b>Session 4: Compilers (4 papers)</b>
 			<ul>
-				<li><b>A Transducers-based Programming Framework for Efficient Data Transformation</b></li>
-				<li><b>MIREncoder:</b> Multi-modal IR-based Pretrained Embeddings for Performance Optimizations</li>
-				<li><b>Parallel Loop Locality Analysis for Symbolic Thread Counts</b></li>
-				<li><b>PipeGen:</b> Automated Transformation of a Single-Core Pipeline into a Multicore Pipeline for a Given Memory Consistency Model</li>
+				<li>A Transducers-based Programming Framework for Efficient Data Transformation<br> 
+Tri Nguyen, Michela Becchi (North Carolina State University)
+</li>
+				<li>MIREncoder: Multi-modal IR-based Pretrained Embeddings for Performance Optimizations<br>  
+Akash Dutta, Ali Jannesari (Iowa State University)
+</li>
+				<li>Parallel Loop Locality Analysis for Symbolic Thread Counts<br>  
+Fangzhou Liu, Yifan Zhu, Shaotong Sun, Chen Ding, Wesley Smith, Kaave Hosseini (University of Rochester
+</li>
+				<li>PipeGen: Automated Transformation of a Single-Core Pipeline into a Multicore Pipeline for a Given Memory Consistency Model<br>  
+An Qi Zhang (University of Utah) , Andrés Goens (University of Amsterdam), Nicolai Oswald (Nvidia), Tobias Grosser (University of Cambridge), Daniel Sorin (Duke University), Vijay Nagarajan (University of Utah)
+</li>
 			</ul>
 		</td>
 	</tr>
@@ -149,10 +169,18 @@ Qidong Su (University of Toronto / Vector Institute / CentML); Jiacheng Yang (Un
 		<td>
 			<b>Session 5: Security (4 papers)</b>
 			<ul>
-				<li><b>Defensive ML:</b> Adversarial Machine Learning as a Practical Architectural Defense for Side Channels</li>
-				<li><b>Toast:</b> A Heterogeneous Memory Management System</li>
-				<li><b>BoostCom:</b> Towards Efficient Universal Fully Homomorphic Encryption by Boosting the Word-wise Comparisons</li>
-				<li><b>SZKP:</b> A Scalable Accelerator Architecture for Zero-Knowledge Proofs</li>
+				<li>Defensive ML: Adversarial Machine Learning as a Practical Architectural Defense for Side Channels<br> 
+Hyoungwook Nam (University of Illinois at Urbana-Champaign); Raghavendra Pradyumna Pothukuchi (Yale University); Bo Li, Nam Sung Kim (University of Illinois, Urbana-Champaign); Josep Torrellas (University of Illinois at Urbana Champaign)
+</li>
+				<li>Toast: A Heterogeneous Memory Management System<br> 
+Maurice Bailleu (Huawei Research); Dimitrios Stavrakakis (TU Munich / The University of Edinburgh); Rodrigo Rocha (Huawei Research); Soham Chakraborty (TU Delft); Deepak Garg (Max Planck Institute for Software Systems (MPI-SWS)); Pramod Bhatotia (TU Munich / The University of Edinburgh)
+</li>
+				<li>BoostCom: Towards Efficient Universal Fully Homomorphic Encryption by Boosting the Word-wise Comparisons<br> 
+Ardhi Wiratama Baskara Yudha, Jiaqi Xue, Qian Lou (University of Central Florida); Huiyang Zhou (North Carolina State University); Yan Solihin (University of Central Florida)
+</li>
+			<li>SZKP: A Scalable Accelerator Architecture for Zero-Knowledge Proofs<br> 
+Alhad Daftardar, Brandon Reagen, Siddharth Garg (New York University)
+</li>		
 			</ul>
 		</td>
 	</tr>
@@ -165,9 +193,15 @@ Qidong Su (University of Toronto / Vector Institute / CentML); Jiacheng Yang (Un
 		<td>
 			<b>Session 6: Quantum & Neuromorphic (3 papers)</b>
 			<ul>
-				<li><b>Recompiling QAOA Circuits on Various Rotational Directions</b></li>
-				<li><b>Faster and More Reliable Quantum SWAPs via Native Gates</b></li>
-				<li><b>NavCim:</b> Comprehensive Design Space Exploration for Analog Computing-in-Memory Architectures</li>
+				<li>Recompiling QAOA Circuits on Various Rotational Directions<br> 
+Enhyeok Jang, Dongho Ha, Seungwoo Choi, Youngmin Kim, Jaewon Kwon, Yongju Lee, Sungwoo Ahn, Hyungseok Kim, Won Woo Ro (Yonsei University)
+</li>
+				<li>Faster and More Reliable Quantum SWAPs via Native Gates<br> 
+Pranav Gokhale, Teague Tomesh (Infleqtion); Martin Suchara (Microsoft); Fred Chong (University of Chicago)
+</li>
+				<li>NavCim: Comprehensive Design Space Exploration for Analog Computing-in-Memory Architectures<br> 
+Juseong Park, Boseok Kim (Pohang University of Science and Technology); Hyojin Sung (Seoul National University)
+</li>
 			</ul>
 		</td>
 	</tr>
@@ -194,9 +228,15 @@ Qidong Su (University of Toronto / Vector Institute / CentML); Jiacheng Yang (Un
 		<td>
 			<b>Session 7: Memory (3 papers)</b>
 			<ul>
-				<li><b>MORSE:</b> Memory Overwrite Time Guided Soft Writes to Improve ReRAM Energy and Endurance</li>
-				<li><b>Trimma:</b> Trimming Metadata Storage and Latency for Hybrid Memory Systems</li>
-				<li><b>Chimera:</b> Leveraging Hybrid Offsets for Efficient Data Prefetching</li>
+				<li>MORSE: Memory Overwrite Time Guided Soft Writes to Improve ReRAM Energy and Endurance<br> 
+Devesh Singh (University of Maryland, College Park); Donald Yeung (University of Maryland)
+</li>
+				<li>Trimma: Trimming Metadata Storage and Latency for Hybrid Memory Systems<br> 
+Yiwei Li, Boyu Tian, Mingyu Gao (Tsinghua University)
+</li>
+				<li>Chimera: Leveraging Hybrid Offsets for Efficient Data Prefetching<br> 
+Shuiyi He, Zicong Wang, Xuan Tang, Qiyao Sun, Dezun Dong (National University of Defense Technology)
+</li>
 			</ul>
 		</td>
 	</tr>
@@ -213,9 +253,15 @@ Qidong Su (University of Toronto / Vector Institute / CentML); Jiacheng Yang (Un
 		<td>
 			<b>Session 8: Address Translation, Coherence, and Communication (3 papers)</b>
 			<ul>
-				<li><b>Rethinking Page Table Structure for Fast Address Translation in GPUs: A Fixed-Size Hashed Page Table</b></li>
-				<li><b>Taming the Acceleration Tax:</b> Enabling New Opportunities for Fine-Grained Disaggregated Accelerator-Level Parallelism</li>
-				<li><b>vSPACE:</b> Supporting Parallel Network Packet Processing in Virtualized Environments through Dynamic Core Management</li>
+				<li>Rethinking Page Table Structure for Fast Address Translation in GPUs: A Fixed-Size Hashed Page Table<br> 
+Sungbin Jang, Junhyeok Park, Osang Kwon, Yongho Lee, Seokin Hong (Sungkyunkwan University)
+</li>
+				<li>Taming the Acceleration Tax: Enabling New Opportunities for Fine-Grained, Disaggregated Accelerator-Level Parallelism<br> 
+Vignesh Suresh, Bakshree Mishra, Zeran Zhu, Ying Jing, Naiyin Jin, Charles Block (University of Illinois at Urbana-Champaign); Paolo Mantovani, Davide Giri, Joseph Zuckerman, Luca P. Carloni (Columbia University); Sarita Adve (University of Illinois at Urbana-Champaign)
+</li>
+				<li>vSPACE: Supporting Parallel Network Packet Processing in Virtualized Environments through Dynamic Core Management<br>
+				Gyeongseo Park, Minho Kim (DGIST); Ki-Dong Kang (DGIST/ETRI); Yunhyeong Jeon, Sungju Kim, Hyosang Kim (DGIST); Daehoon Kim (Yonsei University)
+				</li>
 			</ul>
 		</td>
 	</tr>
