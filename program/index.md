@@ -30,7 +30,7 @@ show_sidebar: true
 	</tr>
 	<tr>
 		<td>13:30</td>
-		<td><b>Workshop:</b> The 4th International Workshop on Machine Learning for Software Hardware Co-Design (MLS/H)</td>
+		<td><b>Workshop:</b> [The 4th International Workshop on Machine Learning for Software Hardware Co-Design (MLS/H)](https://commit.csail.mit.edu/mlsh/)</td>
 	</tr>
 	<tr>
 		<td>18:00</td>
