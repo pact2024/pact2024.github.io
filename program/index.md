@@ -62,16 +62,16 @@ show_sidebar: true
 		<td>
 			<b>Session 1: Machine Learning (4 papers)</b>
 			<ul>
-				<li>GraNNDis: Fast Distributed Graph Neural Network Training Framework for Multi-Server Clusters 
+				<li>GraNNDis: Fast Distributed Graph Neural Network Training Framework for Multi-Server Clusters<br> 
 Jaeyong Song, Hongsun Jang, Hunseong Lim, Jaewon Jung (Seoul National University); Youngsok Kim (Yonsei University); Jinho Lee (Seoul National University)
 </li>
-				<li>Activation Sequence Caching: High-Throughput and Memory-Efficient Generative Inference with a Single GPU
+				<li>Activation Sequence Caching: High-Throughput and Memory-Efficient Generative Inference with a Single GPU<br>
 Sowoong Kim, Eunyeong Sim (UNIST); Youngsam Shin, YeonGon Cho (Samsung Advanced Institute of Technology); Woongki Baek (UNIST)
 </li>
-				<li>Improving Throughput-oriented LLM Inference with CPU Computations 
+				<li>Improving Throughput-oriented LLM Inference with CPU Computations<br> 
 Daon Park, Bernhard Egger (Seoul National University)
 </li>
-				<li>BOOM: Use your Desktop to Accurately Predict the Performance of Large Deep Neural Networks 
+				<li>BOOM: Use your Desktop to Accurately Predict the Performance of Large Deep Neural Networks<br> 
 Qidong Su (University of Toronto / Vector Institute / CentML); Jiacheng Yang (University of Toronto / Vector Institute); Gennady Pekhimenko (University of Toronto / Vector Institute / CentML)
 </li>
 			</ul>
