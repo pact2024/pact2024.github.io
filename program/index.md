@@ -256,8 +256,8 @@ Shuiyi He, Zicong Wang, Xuan Tang, Qiyao Sun, Dezun Dong (National University of
 				<li>Rethinking Page Table Structure for Fast Address Translation in GPUs: A Fixed-Size Hashed Page Table<br> 
 Sungbin Jang, Junhyeok Park, Osang Kwon, Yongho Lee, Seokin Hong (Sungkyunkwan University)
 </li>
-				<li>Taming the Acceleration Tax: Enabling New Opportunities for Fine-Grained, Disaggregated Accelerator-Level Parallelism<br> 
-Vignesh Suresh, Bakshree Mishra, Zeran Zhu, Ying Jing, Naiyin Jin, Charles Block (University of Illinois at Urbana-Champaign); Paolo Mantovani, Davide Giri, Joseph Zuckerman, Luca P. Carloni (Columbia University); Sarita Adve (University of Illinois at Urbana-Champaign)
+				<li>Mozart: Taming Taxes and Composing Accelerators with Shared-Memory<br> 
+Vignesh Suresh, Bakshree Mishra, Ying Jing, Zeran Zhu, Naiyin Jin, Charles Block (University of Illinois at Urbana-Champaign); Paolo Mantovani, Davide Giri, Joseph Zuckerman, Luca P. Carloni (Columbia University); Sarita Adve (University of Illinois at Urbana-Champaign)					
 </li>
 				<li>vSPACE: Supporting Parallel Network Packet Processing in Virtualized Environments through Dynamic Core Management<br>
 				Gyeongseo Park, Minho Kim (DGIST); Ki-Dong Kang (DGIST/ETRI); Yunhyeong Jeon, Sungju Kim, Hyosang Kim (DGIST); Daehoon Kim (Yonsei University)
