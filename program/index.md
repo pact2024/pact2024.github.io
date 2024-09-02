@@ -51,7 +51,7 @@ show_sidebar: true
 	</tr>
 	<tr>
 		<td>08:30</td>
-		<td>Keynote 1</td>
+		<td>Keynote: Saman Amarasinghe, Massachusetts Institute of Technology.</td>
 	</tr>
 	<tr>
 		<td>09:30</td>
@@ -134,7 +134,7 @@ Jakob Hartmann, Guoliang He, Eiko Yoneki (University of Cambridge)
 	</thead>
 	<tr>
 		<td>08:30</td>
-		<td>Keynote 2</td>
+		<td>Keynote: Andreas Moshovos, University of Toronto</td>
 	</tr>
 	<tr>
 		<td>09:30</td>
