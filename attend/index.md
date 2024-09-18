@@ -44,7 +44,7 @@ the conference. On the following page it will then be possible to add the worksh
 ### Registration Rates
 
 Pricing and policy information is reproduced here for convenience, without guarantees of accuracy.
-Early registration ends on September 16th.
+**Early registration ends on September 23.**
 See [pricing via our registration vendor](https://web.cvent.com/event/b3dea94b-ee6e-4dbb-bc45-7e44c39553ca/websitePage:f5f1940b-980e-4398-96f6-3b681ef5e4a3) for authoritative information.
 
 
