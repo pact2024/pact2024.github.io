@@ -51,7 +51,7 @@ show_sidebar: true
 	</tr>
 	<tr>
 		<td>08:30</td>
-		<td>Keynote: Saman Amarasinghe, Massachusetts Institute of Technology.</td>
+		<td>Keynote: <a href="#keynote1">Creating DSLs Made Easy</a>, Saman Amarasinghe, Massachusetts Institute of Technology.</td>
 	</tr>
 	<tr>
 		<td>09:30</td>
@@ -134,7 +134,7 @@ Jakob Hartmann, Guoliang He, Eiko Yoneki (University of Cambridge)
 	</thead>
 	<tr>
 		<td>08:30</td>
-		<td>Keynote: Andreas Moshovos, University of Toronto</td>
+		<td>Keynote: <a href="#keynote2">Every “Bit” Matters: Fostering Innovation in Deep Learning and Beyond</a>, Andreas Moshovos, University of Toronto</td>
 	</tr>
 	<tr>
 		<td>09:30</td>
@@ -270,5 +270,8 @@ Vignesh Suresh, Bakshree Mishra, Ying Jing, Zeran Zhu, Naiyin Jin, Charles Block
 		<td>Closing</td>
 	</tr>
 </table>
+
+<br/>
+{% include keynotes.html %}
 
 
