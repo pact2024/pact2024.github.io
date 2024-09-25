@@ -22,7 +22,7 @@ show_sidebar: true
 	</thead>
 	<tr>
 		<td>08:00</td>
-		<td><b>Tutorial:</b> QVT: The Quantum Visualization Toolkit</td>
+		<td><b>Tutorial:</b> <a href="https://guanslab.github.io/CybertrainingKSU/">QVT: The Quantum Visualization Toolkit</a></td>
 	</tr>
 	<tr>
 		<td>12:00</td>
