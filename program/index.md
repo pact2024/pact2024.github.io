@@ -61,6 +61,9 @@ show_sidebar: true
 		<td>10:00</td>
 		<td>
 			<b>Session 1: Machine Learning (4 papers)</b>
+			<br>
+            		<b>Chair:</b> Hyoungwook Nam, University of Illinois at Urbana-Champaign
+            		<br>
 			<ul>
 				<li>GraNNDis: Fast Distributed Graph Neural Network Training Framework for Multi-Server Clusters<br> 
 Jaeyong Song, Hongsun Jang, Hunseong Lim, Jaewon Jung (Seoul National University); Youngsok Kim (Yonsei University); Jinho Lee (Seoul National University)
@@ -85,6 +88,9 @@ Qidong Su (University of Toronto / Vector Institute / CentML); Jiacheng Yang (Un
 		<td>13:30</td>
 		<td>
 			<b>Session 2: Architecture and Application Co-design (3 papers)</b>
+			<br>
+            		<b>Chair:</b> Bernhard Egger, Seoul National University
+            		<br>
 			<ul>
 				<li>Demystifying Distributed Optimization Algorithms on a Real-World Processing-In-Memory Architecture<br>
 Steve Rhyner, Haocong Luo (ETH Zurich); Juan Gomez Luna (NVIDIA); Mohammad Sadrosadati (ETH Zurich); Jiawei Jiang (Wuhan University); Ataberk Olgun, Harshita Gupta (ETH Zurich); Ce Zhang (University of Chicago); Onur Mutlu (ETH Zurich & Stanford University)
@@ -106,6 +112,9 @@ Magnus Östgren, Ioannis Sourdis (Chalmers University of Technology)
 		<td>15:30</td>
 		<td>
 			<b>Session 3: Parallelism (3 papers)</b>
+			<br>
+            		<b>Chair:</b> Ying Jing, University of Illinois at Urbana-Champaign
+            		<br>			
 			<ul>
 				<li>Leveraging Difference Recurrence Relations for High-Performance GPU Genome Alignment<br> 
 Alberto Zeni (Politecnico di Milano, Italy); Seth Onken (NVIDIA Corporation); Marco D. Santambrogio (Politecnico di Milano, Italy); Mehrzad Samadi (NVIDIA Corporation)
@@ -144,6 +153,9 @@ Jakob Hartmann, Guoliang He, Eiko Yoneki (University of Cambridge)
 		<td>10:00</td>
 		<td>
 			<b>Session 4: Compilers (4 papers)</b>
+			<br>
+            		<b>Chair:</b> J. Nelson Amaral, University of Alberta 
+            		<br>			
 			<ul>
 				<li>A Transducers-based Programming Framework for Efficient Data Transformation<br> 
 Tri Nguyen, Michela Becchi (North Carolina State University)
@@ -168,6 +180,9 @@ An Qi Zhang (University of Utah) , Andrés Goens (University of Amsterdam), Nico
 		<td>13:30</td>
 		<td>
 			<b>Session 5: Security (4 papers)</b>
+			<br>
+            		<b>Chair:</b>  Donald Yeung, University of Maryland
+            		<br>			
 			<ul>
 				<li>Defensive ML: Adversarial Machine Learning as a Practical Architectural Defense for Side Channels<br> 
 Hyoungwook Nam (University of Illinois at Urbana-Champaign); Raghavendra Pradyumna Pothukuchi (Yale University); Bo Li, Nam Sung Kim (University of Illinois, Urbana-Champaign); Josep Torrellas (University of Illinois at Urbana Champaign)
@@ -192,6 +207,9 @@ Alhad Daftardar, Brandon Reagen, Siddharth Garg (New York University)
 		<td>16:00</td>
 		<td>
 			<b>Session 6: Quantum & Neuromorphic (3 papers)</b>
+			<br>
+            		<b>Chair:</b> Qian Lou, University of Central Florida
+            		<br>			
 			<ul>
 				<li>Recompiling QAOA Circuits on Various Rotational Directions<br> 
 Enhyeok Jang, Dongho Ha, Seungwoo Choi, Youngmin Kim, Jaewon Kwon, Yongju Lee, Sungwoo Ahn, Hyungseok Kim, Won Woo Ro (Yonsei University)
@@ -227,6 +245,9 @@ Juseong Park, Boseok Kim (Pohang University of Science and Technology); Hyojin S
 		<td>08:00</td>
 		<td>
 			<b>Session 7: Memory (3 papers)</b>
+			<br>
+            		<b>Chair:</b> Ioannis Sourdis, Chalmers University of Technology
+            		<br>			
 			<ul>
 				<li>MORSE: Memory Overwrite Time Guided Soft Writes to Improve ReRAM Energy and Endurance<br> 
 Devesh Singh (University of Maryland, College Park); Donald Yeung (University of Maryland)
@@ -252,6 +273,9 @@ Shuiyi He, Zicong Wang, Xuan Tang, Qiyao Sun, Dezun Dong (National University of
 		<td>11:00</td>
 		<td>
 			<b>Session 8: Address Translation, Coherence, and Communication (3 papers)</b>
+			<br>
+            		<b>Chair:</b> Devesh Signh, Samsung
+            		<br>			
 			<ul>
 				<li>Rethinking Page Table Structure for Fast Address Translation in GPUs: A Fixed-Size Hashed Page Table<br> 
 Sungbin Jang, Junhyeok Park, Osang Kwon, Yongho Lee, Seokin Hong (Sungkyunkwan University)
