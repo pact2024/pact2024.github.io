@@ -241,7 +241,7 @@ Juseong Park, Boseok Kim (Pohang University of Science and Technology); Hyojin S
 	</tr>
 	<tr>
 		<td>18:00</td>
-		<td><a href="/attend/#conference-dinner">Conference Banquet (Room: Gallery)</a></td>
+		<td>Conference Banquet (Room: Gallery)</td>
 	</tr>
 </table>
 
