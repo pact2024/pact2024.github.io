@@ -92,8 +92,8 @@ Qidong Su (University of Toronto / Vector Institute / CentML); Jiacheng Yang (Un
             		<b>Chair:</b> Bernhard Egger, Seoul National University
             		<br>
 			<ul>
-				<li>Demystifying Distributed Optimization Algorithms on a Real-World Processing-In-Memory Architecture<br>
-Steve Rhyner, Haocong Luo (ETH Zurich); Juan Gomez Luna (NVIDIA); Mohammad Sadrosadati (ETH Zurich); Jiawei Jiang (Wuhan University); Ataberk Olgun, Harshita Gupta (ETH Zurich); Ce Zhang (University of Chicago); Onur Mutlu (ETH Zurich & Stanford University)
+				<li>PIM-Opt: Demystifying Distributed Optimization Algorithms on a Real-World Processing-In-Memory System<br>
+Steve Rhyner, Haocong Luo (ETH Zurich); Juan Gómez-Luna (NVIDIA); Mohammad Sadrosadati (ETH Zurich); Jiawei Jiang (Wuhan University); Ataberk Olgun, Harshita Gupta (ETH Zurich); Ce Zhang (University of Chicago); Onur Mutlu (ETH Zurich)
 </li>
 				<li>ZeD: A Generalized Accelerator for Variably Sparse Matrix Computations in ML<br> 
 Pranav Dangi, Zhenyu Bai, Rohan Juneja, Dhananjaya Wijerathne, Tulika Mitra (National University of Singapore)
