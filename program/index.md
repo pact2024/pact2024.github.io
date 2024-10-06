@@ -21,6 +21,10 @@ show_sidebar: true
 		<th>What</th>
 	</thead>
 	<tr>
+		<td>07:15</td>
+		<td><i>Breakfast (provided)</i></td>
+	</tr>	
+	<tr>
 		<td>08:00</td>
 		<td><b>Tutorial:</b> <a href="https://guanslab.github.io/CybertrainingKSU/">QVT: The Quantum Visualization Toolkit</a></td>
 	</tr>
@@ -45,6 +49,10 @@ show_sidebar: true
 		<th>Time</th>
 		<th>What</th>
 	</thead>
+	<tr>
+		<td>07:15</td>
+		<td><i>Breakfast (provided)</i></td>
+	</tr>		
 	<tr>
 		<td>08:00</td>
 		<td>Opening</td>
@@ -141,6 +149,10 @@ Jakob Hartmann, Guoliang He, Eiko Yoneki (University of Cambridge)
 		<th>Time</th>
 		<th>What</th>
 	</thead>
+	<tr>
+		<td>07:15</td>
+		<td><i>Breakfast (provided)</i></td>
+	</tr>		
 	<tr>
 		<td>08:30</td>
 		<td>Keynote: <a href="#keynote2">Every “Bit” Matters: Fostering Innovation in Deep Learning and Beyond</a>, Andreas Moshovos, University of Toronto</td>
@@ -241,6 +253,10 @@ Juseong Park, Boseok Kim (Pohang University of Science and Technology); Hyojin S
 		<th>What</th>
 		<th>Where</th>
 	</thead>
+	<tr>
+		<td>07:15</td>
+		<td><i>Breakfast (provided)</i></td>
+	</tr>		
 	<tr>
 		<td>08:00</td>
 		<td>
