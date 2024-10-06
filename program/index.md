@@ -13,7 +13,7 @@ show_sidebar: true
 * [Tuesday, October 15, 2024](#tuesday-october-15-2024)
 * [Wednesday, October 16, 2024](#wednesday-october-16-2024)
 
-### Sunday, October 13, 2024
+### Sunday, October 13, 2024 (Room: Catalina)
 
 <table class="table table-striped">
 	<thead>
@@ -42,7 +42,7 @@ show_sidebar: true
 	</tr>
 </table>
 
-### Monday, October 14, 2024
+### Monday, October 14, 2024 (Room: Catalina)
 
 <table class="table table-striped">
 	<thead>
@@ -142,7 +142,7 @@ Jakob Hartmann, Guoliang He, Eiko Yoneki (University of Cambridge)
 	</tr>
 </table>
 
-### Tuesday, October 15, 2024
+### Tuesday, October 15, 2024 (Room: Catalina)
 
 <table class="table table-striped">
 	<thead>
@@ -241,11 +241,11 @@ Juseong Park, Boseok Kim (Pohang University of Science and Technology); Hyojin S
 	</tr>
 	<tr>
 		<td>18:00</td>
-		<td><a href="/attend/#conference-dinner">Conference dinner</a></td>
+		<td><a href="/attend/#conference-dinner">Conference Banquet (Room: Gallery)</a></td>
 	</tr>
 </table>
 
-### Wednesday, October 16, 2024
+### Wednesday, October 16, 2024 (Room: Catalina)
 
 <table class="table table-striped">
 	<thead>
