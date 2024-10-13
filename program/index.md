@@ -29,12 +29,20 @@ show_sidebar: true
 		<td><b>Tutorial:</b> <a href="https://guanslab.github.io/CybertrainingKSU/">QVT: The Quantum Visualization Toolkit</a></td>
 	</tr>
 	<tr>
+		<td>09:30-10</td>
+		<td>Break</td>
+	</tr>
+	<tr>
 		<td>12:00</td>
 		<td>Lunch (provided)</td>
 	</tr>
 	<tr>
 		<td>13:30</td>
 		<td><b>Workshop:</b> <a href="https://commit.csail.mit.edu/mlsh/">The 4th International Workshop on Machine Learning for Software Hardware Co-Design (MLS/H)</a></td>
+	</tr>
+	<tr>
+		<td>09:30-10</td>
+		<td>Break</td>
 	</tr>
 	<tr>
 		<td>18:00</td>
