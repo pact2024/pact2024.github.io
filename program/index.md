@@ -10,6 +10,8 @@ show_sidebar: true
     <a href="https://dl.acm.org/doi/proceedings/10.1145/3656019">Proceedings</a>
 </h3>
 
+ <a href="https://dl.acm.org/doi/proceedings/10.1145/3656019" class="btn btn-info btn-lg px-4">Proceedings</a> <br/>
+
 # Schedule
 
 * [Sunday, October 13, 2024](#sunday-october-13-2024)
