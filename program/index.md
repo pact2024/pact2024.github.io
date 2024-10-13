@@ -41,7 +41,7 @@ show_sidebar: true
 		<td><b>Workshop:</b> <a href="https://commit.csail.mit.edu/mlsh/">The 4th International Workshop on Machine Learning for Software Hardware Co-Design (MLS/H)</a></td>
 	</tr>
 	<tr>
-		<td>09:30-10</td>
+		<td>15-15:30</td>
 		<td>Break</td>
 	</tr>
 	<tr>
