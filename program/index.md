@@ -6,6 +6,10 @@ layout:       page_sidebar
 show_sidebar: true
 ---
 
+<h3>
+    <a href="https://dl.acm.org/doi/proceedings/10.1145/3656019">Proceedings</a>
+</h3>
+
 # Schedule
 
 * [Sunday, October 13, 2024](#sunday-october-13-2024)
