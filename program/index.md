@@ -6,9 +6,6 @@ layout:       page_sidebar
 show_sidebar: true
 ---
 
-<h3>
-    <a href="https://dl.acm.org/doi/proceedings/10.1145/3656019">Proceedings</a>
-</h3>
 
  <a href="https://dl.acm.org/doi/proceedings/10.1145/3656019" class="btn btn-info btn-lg px-4">Proceedings</a> <br/>
 
