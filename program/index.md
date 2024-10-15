@@ -207,7 +207,7 @@ An Qi Zhang (University of Utah) , Andrés Goens (University of Amsterdam), Nico
             		<b>Chair:</b>  Donald Yeung, University of Maryland
             		<br>			
 			<ul>
-				<li>Defensive ML: Adversarial Machine Learning as a Practical Architectural Defense for Side Channels<br> 
+				<li>FriendlyFoe:  Adversarial Machine Learning as a Practical Architectural Defense against Side Channel Attacks<br> 
 Hyoungwook Nam (University of Illinois at Urbana-Champaign); Raghavendra Pradyumna Pothukuchi (Yale University); Bo Li, Nam Sung Kim (University of Illinois, Urbana-Champaign); Josep Torrellas (University of Illinois at Urbana Champaign)
 </li>
 				<li>Toast: A Heterogeneous Memory Management System<br> 
