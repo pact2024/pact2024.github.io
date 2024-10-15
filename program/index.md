@@ -301,7 +301,7 @@ Shuiyi He, Zicong Wang, Xuan Tang, Qiyao Sun, Dezun Dong (National University of
 		<td>
 			<b>Session 8: Address Translation, Coherence, and Communication (3 papers)</b>
 			<br>
-            		<b>Chair:</b> Devesh Signh, Samsung
+            		<b>Chair:</b> Devesh Singh, Samsung
             		<br>			
 			<ul>
 				<li>Rethinking Page Table Structure for Fast Address Translation in GPUs: A Fixed-Size Hashed Page Table<br> 
