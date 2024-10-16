@@ -88,7 +88,6 @@ University of California, Riverside <br>
 Project Title: "Understanding and Modeling the Performance Landscape of Ultra-Dense 3D Memory Systems" <br> 
 ETH Zurich <br>
 
-<br> 
 
 ##### Undergraduate Student Category
 
