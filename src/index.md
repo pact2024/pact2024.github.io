@@ -76,7 +76,7 @@ Details will be released closer to the conference.
 
 ##### Graduate Student Category
 
-- **1st Place:** Nurlan Nazaraliyev <br>  
+- **1st Place:** Nurlan Nazaraliyev 
 Project Title: "LOSS: Lightweight-OS-Support for GPUs" <br> 
 University of California, Riverside <br> 
 
