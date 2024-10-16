@@ -70,24 +70,23 @@ Submit your extended abstract at: [https://pact24src.hotcrp.com/](https://pact24
 Details will be released closer to the conference.
 
 
-<br> <br> <br>
-
+<br> 
 
 ## ACM SRC winners
 
-### Graduate Student Category:
+##### Graduate Student Category:
 
 - **1st Place:** Nurlan Nazaraliyev 
-Project Title: "LOSS: Lightweight-OS-Support for GPUs"
-University of California, Riverside
+Project Title: "LOSS: Lightweight-OS-Support for GPUs" <br> 
+University of California, Riverside <br> 
 
 - **2nd Place:** Ravan Nazaraliyev  
-Project Title: "Stealth within Security: Exploiting RFM Rowhammer Mitigation for GPU Attacks"
-University of California, Riverside
+Project Title: "Stealth within Security: Exploiting RFM Rowhammer Mitigation for GPU Attacks" <br> 
+University of California, Riverside <br> 
 
 - **3rd Place:** Nika Mansouri Ghiasi
-Project Title: "Understanding and Modeling the Performance Landscape of Ultra-Dense 3D Memory Systems"
-ETH Zurich
+Project Title: "Understanding and Modeling the Performance Landscape of Ultra-Dense 3D Memory Systems" <br> 
+ETH Zurich <br> 
 
 
 ### Good luck, and we look forward to your participation in July!
