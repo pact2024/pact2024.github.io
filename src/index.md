@@ -72,4 +72,22 @@ Details will be released closer to the conference.
 
 <br> <br> <br>
 
+
+## ACM SRC winners
+
+### Graduate Student Category:
+
+- **1st Place:** Nurlan Nazaraliyev 
+Project Title: "LOSS: Lightweight-OS-Support for GPUs"
+University of California, Riverside
+
+- **2nd Place:** Ravan Nazaraliyev  
+Project Title: "Stealth within Security: Exploiting RFM Rowhammer Mitigation for GPU Attacks"
+University of California, Riverside
+
+- **3rd Place:** Nika Mansouri Ghiasi
+Project Title: "Understanding and Modeling the Performance Landscape of Ultra-Dense 3D Memory Systems"
+ETH Zurich
+
+
 ### Good luck, and we look forward to your participation in July!
