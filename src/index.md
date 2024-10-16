@@ -74,7 +74,7 @@ Details will be released closer to the conference.
 
 ## ACM SRC winners
 
-##### Graduate Student Category:
+##### Graduate Student Category
 
 - **1st Place:** Nurlan Nazaraliyev <br>  
 Project Title: "LOSS: Lightweight-OS-Support for GPUs" <br> 
@@ -90,7 +90,7 @@ ETH Zurich <br>
 
 <br> 
 
-##### Undergraduate Student Category:
+##### Undergraduate Student Category
 
 - **1st Place:** Sophia Fu <br> 
 Project Title: "Accelerating High-Precision Number Theoretic Transforms using Intel AVX-512" <br>
