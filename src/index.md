@@ -1,5 +1,32 @@
 # Student Research Competition
 
+## ACM SRC winners
+
+##### Graduate Student Category
+
+- **1st Place:** Nurlan Nazaraliyev <br> 
+Project Title: "LOSS: Lightweight-OS-Support for GPUs" <br> 
+University of California, Riverside <br> 
+
+- **2nd Place:** Ravan Nazaraliyev <br> 
+Project Title: "Stealth within Security: Exploiting RFM Rowhammer Mitigation for GPU Attacks" <br> 
+University of California, Riverside <br> 
+
+- **3rd Place:** Nika Mansouri Ghiasi <br> 
+Project Title: "Understanding and Modeling the Performance Landscape of Ultra-Dense 3D Memory Systems" <br> 
+ETH Zurich <br>
+
+
+##### Undergraduate Student Category
+
+- **1st Place:** Sophia Fu <br> 
+Project Title: "Accelerating High-Precision Number Theoretic Transforms using Intel AVX-512" <br>
+Carnegie Mellon University <br> 
+
+- **2nd Place:** Ishita Mehta <br>
+Project Title: "Evaluating Rowhammer Impact on Neural Network Accuracy" <br>
+University of Colorado Boulder <br>
+
 ## About
 
 The Student Research Competition (SRC) at PACT 2024 provides a unique opportunity for students to present their research and receive feedback from experienced researchers in the community. This competition allows students to network, improve their presentation skills, and showcase their work to an audience of peers and experts. Both undergraduate and graduate students are encouraged to participate.
@@ -68,36 +95,6 @@ Submit your extended abstract at: [https://pact24src.hotcrp.com/](https://pact24
 ##### Virtual Presentations
 
 Details will be released closer to the conference.
-
-
-<br> 
-
-## ACM SRC winners
-
-##### Graduate Student Category
-
-- **1st Place:** Nurlan Nazaraliyev <br> 
-Project Title: "LOSS: Lightweight-OS-Support for GPUs" <br> 
-University of California, Riverside <br> 
-
-- **2nd Place:** Ravan Nazaraliyev <br> 
-Project Title: "Stealth within Security: Exploiting RFM Rowhammer Mitigation for GPU Attacks" <br> 
-University of California, Riverside <br> 
-
-- **3rd Place:** Nika Mansouri Ghiasi <br> 
-Project Title: "Understanding and Modeling the Performance Landscape of Ultra-Dense 3D Memory Systems" <br> 
-ETH Zurich <br>
-
-
-##### Undergraduate Student Category
-
-- **1st Place:** Sophia Fu <br> 
-Project Title: "Accelerating High-Precision Number Theoretic Transforms using Intel AVX-512" <br>
-Carnegie Mellon University <br> 
-
-- **2nd Place:** Ishita Mehta <br>
-Project Title: "Evaluating Rowhammer Impact on Neural Network Accuracy" <br>
-University of Colorado Boulder <br>
 
 
 <br> <br> <br>
