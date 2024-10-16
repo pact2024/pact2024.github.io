@@ -3,22 +3,22 @@
 ## SRC Winners
 
 ### Graduate Student Category:
-* 1st Place: Nurlan Nazaraliyev
-Project Title: "LOSS: Lightweight-OS-Support for GPUs"
+* 1st Place: Nurlan Nazaraliyev  
+Project Title: "LOSS: Lightweight-OS-Support for GPUs"  
 University of California, Riverside
-* 2nd Place: Ravan Nazaraliyev 
-Project Title: "Stealth within Security: Exploiting RFM Rowhammer Mitigation for GPU Attacks"
+* 2nd Place: Ravan Nazaraliyev  
+Project Title: "Stealth within Security: Exploiting RFM Rowhammer Mitigation for GPU Attacks"  
 University of California, Riverside
-* 3rd Place: Nika Mansouri Ghiasi
-Project Title: "Understanding and Modeling the Performance Landscape of Ultra-Dense 3D Memory Systems"
+* 3rd Place: Nika Mansouri Ghiasi  
+Project Title: "Understanding and Modeling the Performance Landscape of Ultra-Dense 3D Memory Systems"  
 ETH Zurich
 
 ### Undergraduate Student Category:
-* 1st Place: Sophia Fu
-Project Title: "Accelerating High-Precision Number Theoretic Transforms using Intel AVX-512"
+* 1st Place: Sophia Fu  
+Project Title: "Accelerating High-Precision Number Theoretic Transforms using Intel AVX-512"  
 Carnegie Mellon University
-* 2nd Place: Ishita Mehta
-Project Title: "Evaluating Rowhammer Impact on Neural Network Accuracy"
+* 2nd Place: Ishita Mehta  
+Project Title: "Evaluating Rowhammer Impact on Neural Network Accuracy"  
 University of Colorado Boulder
 
 ## About
